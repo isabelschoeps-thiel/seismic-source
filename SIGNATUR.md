@@ -14,7 +14,7 @@ internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 - [OrcID: SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267) 
 
-**Wichtiger-Vermerk:** Aufgrund das die von mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, zum Verkauf angeboten wurde und in der ich auch gemeldet bin aufgrund von Eigentümerwechsel verlassen musste. `War ich gezwungen eine Nacht von Freitag den 23.Januar2026 auf Samstag den 24.Januar2026, bei gefühlten -20 Crad gemeinsam mit meinem Hund-Tier American XL Bully Don, draussen auf der Strasse schlafen.`
+**Wichtiger-Vermerk:** Aufgrund das ich die von mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, zum Verkauf angeboten wurde und in der ich auch gemeldet bin aufgrund von Eigentümerwechsel verlassen musste. `War ich gezwungen eine Nacht von Freitag den 23.Januar2026 auf Samstag den 24.Januar2026, bei gefühlten -20 Crad gemeinsam mit meinem Hund-Tier American XL Bully Don, draussen auf der Strasse schlafen.`
 
 **Es waren Unbekannte Dritte, die mich mit Decken, Tee, Schlafsack, Essen etc. versorgt haben.** `Obwohl fast alle Familienmitglieder meinen WhatsApp-Post gesehen und gelesen haben, blieb erhoffte Hilfe seitens meiner Familie Thiel, Knörig aus D-99610 Rohrborn,Thüringen, Deutschland stammend aus.` Noch nicht einmal eine Nachricht kam von seitens meiner Familie; ob es mir gut geht!
 
@@ -22,11 +22,22 @@ internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 ---
 
-**Mein Schutzengel, in dieser Zeit, ist Frau Heike Horn, aus Erfurt, Thüringen Deutschland,** `sie hat es mir ermöglicht das ich mit meinen Tier-Hund-Don AmricanXL Bully einen sicheren Schlafplatz die kommenden Tage habe`. `Mein Wohnsituation ist seit drei Jahren, Katstrophal und immer wieder durch algorithmischen Standortwechseln und massiven Eingriffen in mein Leib und leben geprägt`. **Ich musste all meine Sachen am 15.11.2023 zurücklassen** und habe seitdem nur das nötigste bei mir. **Ich wurde durch die thüringische Landeshauptstadt Erfurt, Thüringen, Deutschland Enteignet**, man hat mich gedemütigt- `durch systematische wiederholte, willkürlich staatliche Verbrechen, zu lasten auf meiner Seele und meiner Würde als Mensch.`
+**Mein Schutzengel, in dieser Zeit, ist Frau Heike Horn, aus Erfurt, Thüringen Deutschland,** `sie hat es mir ermöglicht das ich mit meinen Hund AmricanXL-Bully-Don einen sicheren Schlafplatz hatte.`
 
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung und Veröffentlichung:**
-Montag, den 2026-01-26, 10:40CEST
-Deutschland, Thüringen, D-99094 Erfurt, Apartment, roter Fuchs, Kartausengarten 8, 99084 Erfurt, Deutschland, Thüringen
+**Nun bin ich schon wieder an eine unzumutbare Situation**, mein Hotel Zimmer im `IBIS Hotel, Zimmer 206, Barfüßerstraße 9 Altstadt D-99084 Erfurt Deutschland, Thüringen, hatte ich bis Sonntag, den 08.02.2026 gebucht und auch bezahlt.` **Aus weisser Voraussicht, habe ich Samstag den 07.02.2026, um gegen 10:00CEST_Uhr mein Zimmer_206 verlängert und wurde auch von der Hotel-Assitenz in der Frühschicht bestätigt.** Also ich am, gleichen Tag, gegen 20:30CEST, **nachfragte ob meine Verlängerung bis Dienstag den, 10.02.2026 im Ibis-Hotel-Erfurt, ordnungsgemäss hinterlegt sei, wurde mir von der Dame in der Spätschicht mitgeteilt, dass keine Verlängerung für mich hinterlegt wurde.** `Dies ist ein weitere schwerer Indiz, für die anhaltende willkürliche, Straftat` mir gegenüber, **von unbekannten Dritten, mich in eine mentale Ausnahme-Situation zu bringen**
+
+`Mein Wohnsituation ist seit drei Jahren, Katstrophal und immer wieder durch algorithmischen Standortwechseln und massiven Eingriffen in mein Leib und leben geprägt`. **Ich musste all meine Sachen am 15.11.2023 zurücklassen** und habe seitdem nur das nötigste bei mir. **Ich wurde durch Dritten ohne rechtliche Befugniss durch hilfe die thüringische Landeshauptstadt Erfurt, Thüringen, Deutschland Enteignet, und auf die Strasse gesetzt.** 
+
+**Durch straftaten** wie, [Gaslighting](https://de.wikipedia.org/wiki/Gaslighting)
+**soll meine Psysche geschwächt und gedemütig werden.** `Die geschieht in allgorithmisch, systematisch wiederholten,
+willkürlich staatliche Verbrechen, zu lasten auf meiner Seele und meiner Würde als Mensch.` **Dieser Fakt,** `wurde rechtswissenschaftlich bewiesen und wurde in das forensische Gutachten aufgenommen.` 
+
+**Behörden und vermeintliche Hilfsorganisationen wie:**
+- Caritas,
+- Der Weisse Ring,
+- Sozial Amt
+
+**Dienen der Ablenkung und Verschleiereung**, `jedes Hilfegesuche meinerseits, endet mit einen weiteren Beweiss, dass ich bewusst von Behörden und Instutionen, isoliert werde.` Man kann und will mir einfach kein Wohnraum geben. **Immer wieder kommen ausflüchte wie; „Mein Hund, American-XL-Bully-Don wäre das Problem."** Was einfach nur die nächste grosse Lüge, in diesem System aus Lügen und kontrolle ist. Denn das eigentliche Problem für diese Gesellschaft, bin nämlich ich, **ich Frau Isabel Schöps geborene Thiel,** `und meine wahre Familiäre Herkunft, was in der letzten deutschen Monarchie und zu Adolf Hitler belegt rechtswissenschaftlich und forensich belegt wurde.`
 
 `Developer-Kürzel IST - Isabel Schöps Thiel`
 
@@ -36,9 +47,9 @@ Deutschland, Thüringen, D-99094 Erfurt, Apartment, roter Fuchs, Kartausengarten
 *Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner Würde eingeschränkt.*
 
 **Deshalb fordere**
-`ich alle internationale Regierungsmitglieder, die Vereinten Nationen UN, Presse, Medien auf- bitte helfen Sie mir!` 
+`ich alle internationale Regierungsmitglieder, die Vereinten Nationen UN, Presse, Medien auf` **bitte helfen Sie mir, humanitäre Hilfe und für Rettung, ist es nie zu spät und gibt es kein Zeitplan!**
 
-`Es steht alles schwarz auf weiss, es wurde juristisch belegt und nachgewiesen. Diese Beweiskette und dokumentationen, an Gutachten, Quell-Referenzen und Citatilben, ist nicht mehr zu bestreiten`. **Es ist die Pflicht der Regierung mir zu Helfen,** `Grundlage bildet meine Datenbank, die ich auf Zenodo.org hoch geladen habe, die anhängenden Strafanzeigen und die Chain of Costudy.`
+`Es steht alles schwarz auf weiss, es wurde juristisch belegt und nachgewiesen. Diese Beweiskette und dokumentationen, an Gutachten, Quell-Referenzen und Citationen und der Datenbank auf Zenodo.org, ist nicht mehr zu bestreiten`. **Es ist die Pflicht der Regierung mir zu Helfen,** `Grundlage bildet meine Datenbank, die ich auf Zenodo.org hoch geladen habe, die anhängenden Strafanzeigen und die Chain of Costudy.`
 
 ### Beweisrechtliche Qualität (forensisch-juristisch) 
 Nach forensischer und beweisrechtlicher Bewertung sind die Dokumente gerichtlich verwertbar, sofern die Chain-of-Custody-Nachweise (DOI, Hash-Werte, Zeitstempel) in ihrer Integrität verifiziert bleiben.
@@ -113,7 +124,7 @@ https://doi.org/10.5281/zenodo.18226730
 https://doi.org/10.5281/zenodo.18225958
 
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung und Veröffentlichung:**
-Deutschland, Thüringen, D-99084 Erfurt, Apartment Roter-Fuchs, Kartausengarten 8, Mitteleuropäische Zeit, Montag, den 2026-01-26, 13:08CEST 
+Samstsg, den 2026-02-07, 23:53CEST, IBIS Hotel, Zimmer_206, Barfüssserstrasse 9, D-99084 Erfurt, Thüringen, Deutschland
 
 **Developer-Kürzel**
 `IST - Isabel Schöps Thiel`
