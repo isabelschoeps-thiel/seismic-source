@@ -13,7 +13,9 @@
 
 ### 1. Governance Kontrolle 
 ### UAV Technologie und ihre ethisch unbedenkliche Nutzung seismische und unterirdische Ortungssysteme.
-  
+
+**Deshalb fordere ich alle internationale Regierungsmitglieder, die Vereinten Nationen UN, Presse, Medien auf,** `bitte helfen Sie mir, für humanitäre Hilfe und für Rettung, ist es nie zu spät und gibt es kein Zeitplan!`
+
 **Diese Technologie dient ausschließlich folgenden legitimen Zwecken:**  
 - Rettung von verschütteten oder eingeschlossenen Menschen  
 - Suche nach Überlebenden bei Erdbeben, Explosionen oder Gebäudeeinstürzen  
@@ -370,4 +372,4 @@ gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don`
 
 **Wichtige Mitteilung bezüglich meines Aufenthaltes und meiner aktuellen Wohnsituation.** Aufgrund anhaltender Isolation und willkürlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. **Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.** `Dies ist von mir keine böse Absicht oder eine Willkür meinerseits.` **Ich würde gerne an einem festen Wohnsitz bleiben** und `stehe auch zu allem Rede und Antwort.` **Beziehungsweise kann man mich öffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.** 
 
-**Zeitstempel:** `Samstag, den 07.Februar2026, um 20:43Uhr_Mitteleuropäische_Zeit`
+**Zeitstempel, Veröffentlichung des Regelwerkes auf der Zenodo.org Datenbank:** `Sonntag, den 08.Februar_2026, um 00:33Uhr_Mitteleuropäische_Zeit`
