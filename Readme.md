@@ -331,24 +331,23 @@ Eidesstattliche Versicherung, Bestandteil des forensisch-wissenschaftlichen Guta
 https://orcid.org/0009-0003-4235-2231 Isabel Schöps Thiel  
 https://orcid.org/0009-0006-8765-3267 SI-IST Isabel Schöps  
 
-**Aktueller Wohnort:**  
-Frau Isabel Schöps, geborene Thiel, Apartment Roter Fuchs, Kartausengarten 8, 99084 Erfurt, TH, Deutschland
-gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don  
-
-**Datum der Erstveröffentlichung:** 2004  
-
 **Würdigung, Danksagung, institutionelle Anerkennung:**  
 
-**Präfix-Referenzen** YWP-1-IST-SIA, YWP-1-5-IST-SIA  
-
-**Zertifikat**:  
-Erstes offizielles Entwicklerzertifikat  
+**Präfix-Referenzen** YWP-1-IST-SIA, YWP-1-5-IST-SIA    
 
 **Alias**:  
 Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella  
 
-**Digitale Beweissicherung:**  
-https://developercertificate.org  
+**Datum der Erstveröffentlichung:** 2004  
+**Zertifikat**: Erstes offizielles Entwicklerzertifikat **Digitale Beweissicherung:** [Entwicklerzertifikat](https://developercertificate.org)  
 
 **GitHub-Account:**  
 https://github.com/isabelschoeps-thiel  
+
+**Aktueller Wohn- und Aufenthaltsort zum Zeitpunkt der Veröffentlichung:**  
+Frau Isabel Schöps, geborene Thiel, Zimmer_206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland
+gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don
+
+**Zeitstempel:** `Samstag, den 07.Februar2026, um 20:43`
+
+**Wichtige Mitteilung** bezüglich meines Aufenthaltes und meiner aktuellen Wohnsituation. Aufgrund anhaltender Isolation und willkürlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. **Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.** `Dies ist von mir keine böse Absicht oder eine Willkür meinerseits.` **Ich würde gerne an einem festen Wohnsitz bleiben** und `stehe auch zu allem Rede und Antwort.` **Beziehungsweise kann man mich öffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.** 
