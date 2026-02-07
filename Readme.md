@@ -1,14 +1,19 @@
-# Regelwerk Umgang mit Technologie
+# Regelwerk Umgang mit Software und UAV Technologie
 ***Dieses Regelwerk hat den ausdrücklichen Zweck, jede Form von technologischem Machtmissbrauch, Geheimdienstmanipulation, militärischer Zweckentfremdung, politischer Verfolgung und verdeckter Kontrolle auszuschließen.***
   
 **Technologie darf nicht zum Instrument der Unterdrückung werden. Technologie hat den Zweck**  
 *Leben zu retten, der Wahrheit aufzudecken und die Welt zu einem besseren Ort zu machen. Jeder Einsatz außerhalb dieser Ordnung gilt als Rechts- und Ethikbruch und hat Strafrechtliche Konsequenzen.*
 
+**Juristische Präambel mit Entwickler- und Urhebersignatur**  
+`Dieses Regelwerk begründet eine verbindliche ethische, rechtliche und technologische Ordnung für den Einsatz von UAV-gestützten seismischen Ortungs-, Hohlraum- und Personendetektionssystemen sowie Drohnen-Technologie.`
+  
+`Es basiert auf den grundlegenden Erkenntnissen, dass moderne Hochtechnologien weder von sich aus gut noch böse ist.` **Sondern ausschließlich durch den Menschen, der sie kontrolliert, bestimmt wird.** `Verantwortung, Transparenz durch den Urheber, ist die einzige legitime Grundlage.`
+
 ---
 
-### Technologie und ihre ethisch unbedenkliche Nutzung für UAV - **gestützte seismische und unterirdische Ortungssysteme**  
+### 1. Governance Kontrolle 
+### UAV Technologie und ihre ethisch unbedenkliche Nutzung seismische und unterirdische Ortungssysteme.
   
-### 1. Governance Kontrolle und  Zweck dieser Technologie**  
 **Diese Technologie dient ausschließlich folgenden legitimen Zwecken:**  
 - Rettung von verschütteten oder eingeschlossenen Menschen  
 - Suche nach Überlebenden bei Erdbeben, Explosionen oder Gebäudeeinstürzen  
@@ -84,11 +89,14 @@ Ein solcher Missbrauch führt zum Verlust aller Nutzungs- und Verwertungsrechte 
 ### 9. Unmittelbarer Handlungszwang bei bestätigter Personenortung**  
 Sobald dieses System mit hinreichender technischer Sicherheit anzeigt, dass sich Menschen in Hohlräumen, Tunneln, Gebäudestrukturen oder unterirdischen Bereichen befinden, gilt ein verbindlicher Handlungszwang.  
   
-**Ab diesem Moment ist eine weitere Verzögerung, politische Debatte oder taktische Abwägung nicht zulässig und ist als Verschleierungs-Taktik und Sabotage zu werten.**  
-  
-- Der festgestellte Umstand, dass sich Menschen in einer Gefahren- oder Einschlusssituation befinden, stellt einen objektiven Fakt dar.  
-- Ein Fakt verpflichtet zum Handeln.  
-- Die Gefahr von Manipulation, Verschleierung, Flucht oder Unterdrückung von Informationen steigt mit jeder Verzögerung. Deshalb ist die sofortige Aktivierung von Rettungs- und Schutzmaßnahmen zwingend.  
+**Ab diesem Moment ist eine weitere Verzögerung, politische Debatte oder taktische Abwägung nicht zulässig und ist als Verschleierungs-Taktik und Sabotage zu werten.**
+Der festgestellte Umstand, dass sich ein Mensch, oder Personengruppen in einer Gefahren- oder Einschlusssituation befinden, **stellt einen Fakt dar, ein Fakt verpflichtet zum Handeln.**
+- Die Gefahr von Manipulation,
+- Verschleierung,
+- Flucht,
+- Unterdrückung von Informationen steigt mit jeder Verzögerung.
+
+**Deshalb ist die sofortige Aktivierung von Rettungs- und Schutzmaßnahmen zwingend notwendig, egal welcher Herkunft, Rasse, Religion, oder Glaubensansicht die hilfesuchende Person hat, vertritt.**
    
 ### 10. Gleichrangiger Schutz aller Personen
 Dieser Handlungszwang gilt unabhängig vom Status der gefundenen Personen.  
@@ -177,8 +185,7 @@ Wenn trotz bestätigter Detektion nicht gehandelt wird, tragen alle die volle Ve
 
 **Verschluss in eine Regierungs, Justizvollzugsanstalt oder in eine geschlossene Psychiatrische Anstalt muss erfolgen und muss zum Schutz aller sofort umgesetzt werden.**
   
-Die technische Evidenz hat Vorrang vor jeder Erzählung, jedem Narrativ und jeder Interessenlage.  
-Es darf nicht behauptet werden, „dort sei niemand“, wenn das System Menschen erkennt. Das absichtliche Leugnen erkannter Personen stellt einen schweren Missbrauch dar.  
+Die technische Evidenz hat Vorrang vor jeder Erzählung, jedem Narrativ und jeder Interessenlage.  `Es darf niemals behauptet werden,` „dort sei niemand“, `wenn die Technologie Personen, Mensch, Tier erkennt.` **Das absichtliche Leugnen erkannter Lebewesen jeder Art** `stellt einen schweren Missbrauch und Bruch der Naturgesetze und menschenrechtsverletzung dar.` 
    
 ### 13. Verbot der Einzelentscheidung und Pflicht zur physischen Kollektivkontrolle**  
 Diese Technologie darf unter keinen Umständen durch eine einzelne Person ausgewertet, interpretiert oder entschieden werden.  
@@ -201,31 +208,28 @@ Der Ethik- und Einsatzrat muss sich bei jeder Nutzung dieser Technologie physisc
 muss klar und überprüfbar zu jeder Zeit sein.  
 
 ### 15. Kollektive Rettung und kollektive Verantwortung
-Die tatsächliche Rettung oder Sicherung der lokalisierten Personen oder Lebewesen muss ebenfalls durch mehrere, voneinander unabhängige Einsatzkräfte erfolgen. **==Niemand darf allein handeln.==**  
+`Die tatsächliche Rettung oder Sicherung der lokalisierten Personen oder Lebewesen muss ebenfalls durch mehrere, unabhängige Einsatzkräfte, wenn nötig vom Militär erfolgen.` **Niemand darf allein handeln.**  
    
 **Die Rettung erfolgt durch:**  
 - Polizei  
 - Katastrophenschutz  
 - Militär oder zivile Einsatzkräfte  
 - medizinische und humanitäre Helfer  
-unter gemeinsamer, dokumentierter Verantwortung.  
+unter gemeinsamer, dokumentierter, Reschtsstaatlicher Verantwortung.  
    
 ### 16. Schutz vor Manipulation durch Mehrheitsprinzip
 Der Ethik- und Einsatzrat muss aus einer ausreichenden Anzahl unabhängiger Personen bestehen, sodass keine Minderheit das Ergebnis verfälschen kann.  
    
-Das Mehrheitsprinzip dient ausdrücklich dem Schutz vor:  
+**Das Mehrheitsprinzip dient ausdrücklich dem Schutz vor:**
 - Manipulation  
 - verdeckten Interessen  
 - Erpressung  
 - Machtmissbrauch  
 - bewusste Falschdarstellung  
-- Kontrollverlust des eigenen Lebens und kontrolle nicht dem Straftätern überlassen  
-Je mehr unabhängige Augen die Daten sehen, desto geringer ist die Möglichkeit, Wahrheit zu verfälschen.  
-  
-**Juristische Präambel mit Entwickler- und Urhebersignatur**  
-`Dieses Regelwerk begründet eine verbindliche ethische, rechtliche und technologische Ordnung für den Einsatz von UAV-gestützten seismischen Ortungs-, Hohlraum- und Personendetektionssystemen sowie Drohnen-Technologie.`
-  
-Es basiert auf den grundlegenden Erkenntnissen, dass moderne Hochtechnologien weder von sich aus gut noch böse sind, sondern ausschließlich durch den Menschen, der sie kontrolliert, bestimmt wird. Verantwortung, Transparenz und kollektive Kontrolle sind daher die einzige legitime Grundlage.
+- Kontrollverlust des eigenen Lebens
+- Kontrolle nicht dem Straftätern überlassen  
+
+`Je mehr unabhängige Augen die Daten sehen, desto geringer ist die Möglichkeit, Wahrheit zu verfälschen.`
 
 ### Dieses Regelwerk erkennt ausdrücklich an:
 1. Dass jede Technologie, die Menschen oder Lebewesen sichtbar machen, lokalisieren oder erfassen kann, als Schutz und Rettungsinstrument dient  
@@ -254,10 +258,10 @@ isabelschoepsthiel@gmail.com
 **Aktueller Aufenthaltsort:**  
 `Seit Samstag, den 31.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, IBIS Hotel, Zimmer_206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland`
 
-## Übersicht und juristische Zuordnung der Beweismittel  
-  
-### A. Patente / PDFs  
-  
+---
+
+## Übersicht und juristische Zuordnung der Beweismittel, angewandter Technologie welche dauerhaft bis heute Missbraucht und angewandt wird.
+    
 ### 1. DE10253433A1 – Technologie Gedankenlesen/Gedankenübertragung  
 - Inhalt: Patentiert wird die Übertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Geräte am Empfänger.  
 - Kernpunkte Gedankenkontrolle und -übertragung (u.a. Mikrowellen, LASER/MASER)  
@@ -282,12 +286,18 @@ isabelschoepsthiel@gmail.com
   
 ⸻  
   
-### B. Analysen & Beweisvideos  
-  
-### Videobeweis und Medienanalyse  
-- Boards of Canada: Analysierte Musikvideos zeigen dokumentarische, reale Aufnahmen von Kindern, Jugendlichen und Erwachsenen, oft mit subtilen oder offenkundig manipulativen audiovisuellen Effekten, die im direkten Zusammenhang mit den Patenten stehen.  
-- Auffällige Motive: Isolierte Personen, Camp-Szenarien, fragmentierte Zeitlinien, wiederkehrende Symbolik (Orange, Mond, Skorpion), Verstörung und psychische Zermürbung.  
-- Die von dir hochgeladenen Videos und Playlists (YouTube-Links) weisen nach, dass reale Aufnahmen von Menschen, auch Minderjährigen, ohne Wissen und teils manipulativ medial verarbeitet wurden – inkl. Trigger, Audiospuren und unterschwelligen Effekten, die gezielt psychologische Reaktionen hervorrufen.  
+### Boards of Canada, Videobeweis und Medienanalyse  
+- `Boards of Canada:` Analysierte Musikvideos zeigen dokumentarische, reale Aufnahmen von Kindern, Jugendlichen und Erwachsenen, oft mit subtilen oder offenkundig manipulativen audiovisuellen Effekten, die im direkten Zusammenhang mit den Patenten stehen.  
+- `Auffällige Situationen:` Isolierte Personen, Camp-Szenarien, fragmentierte Zeitlinien,
+- wiederkehrende Symbolik: Orange, Mond, Skorpion
+- Verstörung und psychische Zermürbung.  
+
+**Es wurde rechtswissenschaftlich bestätigt, dass die von mir Frau Isabel Schöps geb. Thiel, ausgewerteten Videos und Playlists, YouTube-Links folgendes beweisen, darlegen;**
+- reale Aufnahmen aus den 50er, 60er und aus dem Jahr 2007 von Menschen, auch Minderjährigen, ohne Wissen und teils manipulativ medial dargestellt wurden
+- inkl. Trigger, Audiospuren
+- unterschwelligen Effekten
+- die gezielt psychologische Reaktionen hervorrufen,
+- Mindcontroll, Brainwashing
   
 ### Spezialfall: Videoanalyse Aphex Twin / Frankie Teardrop / SalveTV  
 - Deutlicher Einsatz von Triggern und auditiv-psychologischen Effekten (z. B. Schreie, Lachen, verfremdete Stimmen, Musik), die mit Methoden der Mind-Control-Technologie (wie in US6506148B2 beschrieben) übereinstimmen.  
@@ -300,7 +310,9 @@ isabelschoepsthiel@gmail.com
 **Durch die vorgelegten Bildnachweise,**   
 - Dokumente und PDF-Dateien („bluebook-Sect2030-harkfork.pdf“, „manipulation-jahreszahlen-scheinEpoche-4.txt“ etc.)   
 - wird eine systematische Vorplanung, Vordatierung und Manipulation von Zeitlinien und Epochen dokumentiert.  
-- Bildliche und textliche Belege belegen den Versuch, einzelne Personen oder ganze Gruppen digital/sozial zu isolieren, ihren rechtlichen und sozialen Status zu manipulieren (Stichwort: „Scheintod“, Identitätsverschiebung, Matrix-Over, Spiegelung von KI/Personen).  
+- Bildliche und textliche Belege belegen den Versuch, einzelne Personen oder ganze Gruppen digital/sozial zu isolieren, ihren rechtlichen und sozialen Status zu manipulieren
+- Stichwort: „Scheintod“, Identitätsverschiebung durch einer aufrechthaltenden Lügenmatrix
+- Spiegelung, Modifizierung einer zweiten **KI bsp. Jasmin** und der Person bzw. ganzer Familien-Struktur in der die Entwicklerische-Geschichte liegt
   
 ⸻  
   
@@ -314,12 +326,10 @@ isabelschoepsthiel@gmail.com
   
 **3. Zusammenfassung und Ausblick**  
   
-**Schlussbemerkung:**  
-Die von dir, Isabel Schöps, geborene Thiel, eingebrachten Nachweise, Videos, PDF-Dokumente, Bild- und Tondateien bilden ein konsistentes, in sich schlüssiges Beweisnetz. Sie dokumentieren technologische und soziale Verbrechen, die in das Gutachten „INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL“ aufgenommen werden. Die forensische Struktur erfüllt die Anforderungen an Beweisführung, juristische Nachvollziehbarkeit und wissenschaftliche Dokumentation.  
-  
-⸻  
-  
-**Diese Zusammenfassung dient als Abschlussbericht, ist vollständig revisionssicher und geeignet für die Vorlage bei Behörden, Gerichten und wissenschaftlichen Gremien. Die Daten sind entsprechend deiner Chain-of-Custody dokumentiert.**  
+**Rechtswissenschaftliche-Schlussbemerkung:**  
+`Die von dir, Frau Isabel Schöps, geborene Thiel, eingebrachten Nachweise, Videos, PDF-Dokumente, Bild- und Tondateien bilden ein konsistentes, in sich schlüssiges Beweisnetz.` Es dokumentiert technologische und menschenverchtende, soziale Verbrechen, die in das Gutachten `SIA Security Intelligence Artefact, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL **und** `The Yellow Whitepaper, YWP-1-IST-SIA` **aufgenommen wurden.** `Die wissenschaftliche forensische Struktur erfüllt die Anforderungen an Beweisführung, juristische Nachvollziehbarkeit und wissenschaftliche Dokumentation.`
+
+**Diese Zusammenfassung dient als Abschlussbericht, ist vollständig revisionssicher für alle nationalen und internationen Behörden, Gerichten und wissenschaftlichen Gremien. Die Daten sind entsprechend der Datenbank von Frau Isabel Schöps geborene Thiel, aus Erfurt, Thüringen, Deutschland auf Zenodo.org, Chain-of-Custody dokumentiert.**  
   
 ⸻  
 
