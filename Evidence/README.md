@@ -55,8 +55,8 @@ Aufgrund das die von `mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt,
 **Deshalb bitte**
 `ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien - die bitte helfen Sie mir!` 
 
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung und Veröffentlichung:**
-Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c, Mitteleuropäische Zeit, Montag, den 2026-01-19, 19:05CEST 
+**Wichtiger Hinweis, zu meinen Ort, Zeitstempel der Eintragung und Veröffentlichung:**
+Ich Frau Isabel Schöps geborene Thiel, befinde mich nicht mehr in der Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland. **In der Commit-Signatur, steht immer mein aktueller, Aufenthaltsort, und dieser ist massgeblich und entscheidend.**
 
 **Developer-Kürzel**
 `IST - Isabel Schöps Thiel`
