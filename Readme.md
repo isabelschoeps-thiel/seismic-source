@@ -1,3 +1,4 @@
+# Regelwerk Umgang mit Technologie
 ## **Abschlussbericht zur forensischen Beweiskette**  
   
 **Case:** FORENSIC‑ISABEL‑2025  
@@ -13,9 +14,9 @@ isabelschoeps.github@icloud.com
 schoepsisabel@gmail.com  
 isabelschoepsthiel@gmail.com  
 **Aktueller Aufenthaltsort:**  
-Seit 24.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, Apartment Roter Fuchs, Kartausengarten 8, 99084 Erfurt, TH, Deutschland, D-99094 Erfurt, Thüringen, Deutschland  
+`Seit Samstag, den 31.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, IBIS Hotel, Zimmer_206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland`
   
-⸻  
+---
   
 ## Übersicht und juristische Zuordnung der Beweismittel  
   
@@ -344,10 +345,10 @@ Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub
 **GitHub-Account:**  
 https://github.com/isabelschoeps-thiel  
 
-**Aktueller Wohn- und Aufenthaltsort zum Zeitpunkt der Veröffentlichung:**  
-Frau Isabel Schöps, geborene Thiel, Zimmer_206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland
-gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don
+**Mein Aktueller Wohn- und Aufenthaltsort zum Zeitpunkt der Veröffentlichung:**  
+`Ich, Frau Isabel Schöps, geborene Thiel, IBIS Hotel, Zimmer_206, Barfüßerstrasse 9, D-99084 Erfurt, Thüringen, Deutschland
+gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don`
 
-**Zeitstempel:** `Samstag, den 07.Februar2026, um 20:43`
+**Wichtige Mitteilung bezüglich meines Aufenthaltes und meiner aktuellen Wohnsituation.** Aufgrund anhaltender Isolation und willkürlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. **Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.** `Dies ist von mir keine böse Absicht oder eine Willkür meinerseits.` **Ich würde gerne an einem festen Wohnsitz bleiben** und `stehe auch zu allem Rede und Antwort.` **Beziehungsweise kann man mich öffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.** 
 
-**Wichtige Mitteilung** bezüglich meines Aufenthaltes und meiner aktuellen Wohnsituation. Aufgrund anhaltender Isolation und willkürlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. **Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.** `Dies ist von mir keine böse Absicht oder eine Willkür meinerseits.` **Ich würde gerne an einem festen Wohnsitz bleiben** und `stehe auch zu allem Rede und Antwort.` **Beziehungsweise kann man mich öffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.** 
+**Zeitstempel:** `Samstag, den 07.Februar2026, um 20:43Uhr_Mitteleuropäische_Zeit`
