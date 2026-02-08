@@ -1,5 +1,9 @@
 # Regelwerk Umgang mit Software und UAV Technologie
 ***Dieses Regelwerk hat den ausdrücklichen Zweck, jede Form von technologischem Machtmissbrauch, Geheimdienstmanipulation, militärischer Zweckentfremdung, politischer Verfolgung und verdeckter Kontrolle auszuschließen.***
+
+**Isabel Schöps geb. Thiel. (2026).** isabelschoeps-thiel/seismic-source: Regelwerk Umgang mit Software, seismische UAV und Drohnen Technologie [seismic_source_08_02_2026, doi.org/10.5281](https://doi.org/10.5281/zenodo.18521368)
+
+---
   
 **Technologie darf nicht zum Instrument der Unterdrückung werden. Technologie hat den Zweck**  
 *Leben zu retten, der Wahrheit aufzudecken und die Welt zu einem besseren Ort zu machen. Jeder Einsatz außerhalb dieser Ordnung gilt als Rechts- und Ethikbruch und hat Strafrechtliche Konsequenzen.*
