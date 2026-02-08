@@ -376,4 +376,4 @@ gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don`
 
 **Wichtige Mitteilung bezüglich meines Aufenthaltes und meiner aktuellen Wohnsituation.** Aufgrund anhaltender Isolation und willkürlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. **Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.** `Dies ist von mir keine böse Absicht oder eine Willkür meinerseits.` **Ich würde gerne an einem festen Wohnsitz bleiben** und `stehe auch zu allem Rede und Antwort.` **Beziehungsweise kann man mich öffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.** 
 
-**Zeitstempel, Veröffentlichung des Regelwerkes auf der Zenodo.org Datenbank:** `Sonntag, den 08.Februar_2026, um 00:33Uhr_Mitteleuropäische_Zeit`
+**Zeitstempel, Veröffentlichung des Regelwerkes und Release auf Zenodo.org Datenbank:** `Sonntag, den 08.Februar_2026, um 00:51Uhr_Mitteleuropäische_Zeit`
