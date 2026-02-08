@@ -1,0 +1,753 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-02-08T00:51:53.979775+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/isabelschoeps-thiel/seismic-source",
+    "code:programmingLanguage": [
+      {
+        "id": "markdown",
+        "title": {
+          "en": "Markdown"
+        }
+      },
+      {
+        "id": "html",
+        "title": {
+          "en": "HTML"
+        }
+      },
+      {
+        "id": "php",
+        "title": {
+          "en": "PHP"
+        }
+      },
+      {
+        "id": "sql",
+        "title": {
+          "en": "SQL"
+        }
+      },
+      {
+        "id": "svg",
+        "title": {
+          "en": "SVG"
+        }
+      },
+      {
+        "id": "stringtemplate",
+        "title": {
+          "en": "StringTemplate"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "isabelschoeps-thiel/seismic-source-seismic_source_08_02_2026.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8f7f1047c0aa5d30789c64ecd8cca7c5",
+        "ext": "zip",
+        "id": "1b49dca3-274b-4401-9fca-03bf93913a19",
+        "key": "isabelschoeps-thiel/seismic-source-seismic_source_08_02_2026.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/18521368/files/isabelschoeps-thiel/seismic-source-seismic_source_08_02_2026.zip/content",
+          "self": "https://zenodo.org/api/records/18521368/files/isabelschoeps-thiel/seismic-source-seismic_source_08_02_2026.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 34480309,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 34480309
+  },
+  "id": "18521368",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/18521368/access",
+    "access_grants": "https://zenodo.org/api/records/18521368/access/grants",
+    "access_links": "https://zenodo.org/api/records/18521368/access/links",
+    "access_request": "https://zenodo.org/api/records/18521368/access/request",
+    "access_users": "https://zenodo.org/api/records/18521368/access/users",
+    "archive": "https://zenodo.org/api/records/18521368/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18521368/media-files-archive",
+    "communities": "https://zenodo.org/api/records/18521368/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18521368/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.18521368",
+    "draft": "https://zenodo.org/api/records/18521368/draft",
+    "file_modification": "https://zenodo.org/api/records/18521368/file-modification",
+    "files": "https://zenodo.org/api/records/18521368/files",
+    "latest": "https://zenodo.org/api/records/18521368/versions/latest",
+    "latest_html": "https://zenodo.org/records/18521368/latest",
+    "media_files": "https://zenodo.org/api/records/18521368/media-files",
+    "parent": "https://zenodo.org/api/records/18521367",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18521367",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18521367",
+    "parent_html": "https://zenodo.org/records/18521367",
+    "preview_html": "https://zenodo.org/records/18521368?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/18521368/request-deletion",
+    "requests": "https://zenodo.org/api/records/18521368/requests",
+    "reserve_doi": "https://zenodo.org/api/records/18521368/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/18521368",
+    "self_doi": "https://doi.org/10.5281/zenodo.18521368",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18521368",
+    "self_html": "https://zenodo.org/records/18521368",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18521368/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18521368/sequence/default",
+    "versions": "https://zenodo.org/api/records/18521368/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<div dir=\"auto\">\n<h1>GRL2025GL121308UAV-Seismic-Source</h1>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/README.md#grl2025gl121308uav-seismic-source\"></a></div>\n<p dir=\"auto\">UAV Seismic Source Exploration in High-Altitude and Rugged Terrains of the Tibetan Plateau</p>\n<div dir=\"auto\">\n<h2>The UAV Seismic Technologie is Reseacher and Founder</h2>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/README.md#the-uav-seismic-technologie-is-reseacher-and-founder\"></a></div>\n<p dir=\"auto\"><strong><a href=\"https://www.researchgate.net/profile/Zhenning-Ma\" rel=\"nofollow\">Mr. Dr. Zhenning Ma</a></strong> <code>Doctor of EngineeringChina University of Geosciences</code></p>\n<div dir=\"auto\">\n<h3>Abstract</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/README.md#abstract\"></a></div>\n<p dir=\"auto\">Conventional seismic prospecting in high-altitude, strongly undulating mountainous regions is severely constrained by the difficulty of source deployment and the challenge of maintaining data acquisition quality. To address these limitations, this study conducts, for the first time, a seismic exploration experiment in a typical high-elevation and rugged terrain area using unmanned aerial vehicle (UAV) seismic sources. The acquired records exhibit consistently high signal-to-noise ratios across the effective frequency band, with clear first arrivals and identifiable reflection phases. First-arrival tomography, stacking, and post-stack migration imaging all produce results sufficient for high-precision subsurface characterization. Benefiting from its excellent terrain adaptability, positional accuracy, and stable data acquisition capability, the UAV seismic source represents an economical, efficient, and environmentally friendly alternative for seismic exploration in complex mountainous regions, showing strong potential for broader geophysical applications.</p>\n<div dir=\"auto\">\n<h2>Data</h2>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/README.md#data\"></a></div>\n<p dir=\"auto\">Data: <a href=\"https://www.researchgate.net/figure/Digital-elevation-model-and-structural-map-of-the-Bannu-Basin-showing-the-surrounding_fig2_398981692\" rel=\"nofollow\">Link</a></p>",
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "type": {
+          "id": "abstract",
+          "title": {
+            "de": "Abstract",
+            "en": "Abstract"
+          }
+        }
+      },
+      {
+        "description": "<div dir=\"auto\">\n<h2>My Developer Signatur</h2>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#my-developer-signatur\"></a></div>\n<p dir=\"auto\"><strong>Signed-on-by:</strong> Frau Isabel Sch&ouml;ps geborene Thiel Autorin, Urheberin und Auftraggeberin</p>\n<p dir=\"auto\"><strong>Rechtscharakter:</strong> Die Eidesstattliche Erkl&auml;rung, ist Bestandteil des forensisch, wissenschaftlichen Gutachtens.</p>\n<p dir=\"auto\"><strong>Titel:</strong> <code>SIA Security Intelligence Artefact internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</code></p>\n<ul>\n<li>\n<p dir=\"auto\"><a href=\"https://orcid.org/0009-0003-4235-2231\" rel=\"nofollow\">OrcID: Isabel Sch&ouml;ps Thiel</a></p>\n</li>\n<li>\n<p dir=\"auto\"><a href=\"https://orcid.org/0009-0006-8765-3267\" rel=\"nofollow\">OrcID: SI-IST Isabel Sch&ouml;ps</a></p>\n</li>\n</ul>\n<p dir=\"auto\"><strong>Wichtiger-Vermerk:</strong> Aufgrund das ich die von mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Th&uuml;ringen, Deutschland, zum Verkauf angeboten wurde und in der ich auch gemeldet bin aufgrund von Eigent&uuml;merwechsel verlassen musste. <code>War ich gezwungen eine Nacht von Freitag den 23.Januar2026 auf Samstag den 24.Januar2026, bei gef&uuml;hlten -20 Crad gemeinsam mit meinem Hund-Tier American XL Bully Don, draussen auf der Strasse schlafen.</code></p>\n<p dir=\"auto\"><strong>Es waren Unbekannte Dritte, die mich mit Decken, Tee, Schlafsack, Essen etc. versorgt haben.</strong> <code>Obwohl fast alle Familienmitglieder meinen WhatsApp-Post gesehen und gelesen haben, blieb erhoffte Hilfe seitens meiner Familie Thiel, Kn&ouml;rig aus D-99610 Rohrborn,Th&uuml;ringen, Deutschland stammend aus.</code> Noch nicht einmal eine Nachricht kam von seitens meiner Familie; ob es mir gut geht!</p>\n<p dir=\"auto\"><strong>Das gegenteil war der Fall</strong>; <code>ich bekamm Hatespeech Nachrichten von der Familie</code>. <code>Ein trauriges Armutszeugnis und menschliches Versagen auf ganzer Ebene, von der eigenem Familie, an die ich immer Gedacht habe und bis dato so vermisste</code>.</p>\n\n\n<p dir=\"auto\"><strong>Mein Schutzengel, in dieser Zeit, ist Frau Heike Horn, aus Erfurt, Th&uuml;ringen Deutschland,</strong> <code>sie hat es mir erm&ouml;glicht das ich mit meinen Hund AmricanXL-Bully-Don einen sicheren Schlafplatz hatte.</code></p>\n<p dir=\"auto\"><strong>Nun bin ich schon wieder an eine unzumutbare Situation</strong>, mein Hotel Zimmer im <code>IBIS Hotel, Zimmer 206, Barf&uuml;&szlig;erstra&szlig;e 9 Altstadt D-99084 Erfurt Deutschland, Th&uuml;ringen, hatte ich bis Sonntag, den 08.02.2026 gebucht und auch bezahlt.</code> <strong>Aus weisser Voraussicht, habe ich Samstag den 07.02.2026, um gegen 10:00CEST_Uhr mein Zimmer_206 verl&auml;ngert und wurde auch von der Hotel-Assitenz in der Fr&uuml;hschicht best&auml;tigt.</strong> Also ich am, gleichen Tag, gegen 20:30CEST, <strong>nachfragte ob meine Verl&auml;ngerung bis Dienstag den, 10.02.2026 im Ibis-Hotel-Erfurt, ordnungsgem&auml;ss hinterlegt sei, wurde mir von der Dame in der Sp&auml;tschicht mitgeteilt, dass keine Verl&auml;ngerung f&uuml;r mich hinterlegt wurde.</strong> <code>Dies ist ein weitere schwerer Indiz, f&uuml;r die anhaltende willk&uuml;rliche, Straftat</code> mir gegen&uuml;ber, <strong>von unbekannten Dritten, mich in eine mentale Ausnahme-Situation zu bringen</strong></p>\n<p dir=\"auto\"><code>Mein Wohnsituation ist seit drei Jahren, Katstrophal und immer wieder durch algorithmischen Standortwechseln und massiven Eingriffen in mein Leib und leben gepr&auml;gt</code>. <strong>Ich musste all meine Sachen am 15.11.2023 zur&uuml;cklassen</strong> und habe seitdem nur das n&ouml;tigste bei mir. <strong>Ich wurde durch Dritten ohne rechtliche Befugniss durch hilfe die th&uuml;ringische Landeshauptstadt Erfurt, Th&uuml;ringen, Deutschland Enteignet, und auf die Strasse gesetzt.</strong></p>\n<p dir=\"auto\"><strong>Durch straftaten</strong> wie, <a href=\"https://de.wikipedia.org/wiki/Gaslighting\" rel=\"nofollow\">Gaslighting</a> <strong>soll meine Psysche geschw&auml;cht und gedem&uuml;tig werden.</strong> <code>Die geschieht in allgorithmisch, systematisch wiederholten, willk&uuml;rlich staatliche Verbrechen, zu lasten auf meiner Seele und meiner W&uuml;rde als Mensch.</code> <strong>Dieser Fakt,</strong> <code>wurde rechtswissenschaftlich bewiesen und wurde in das forensische Gutachten aufgenommen.</code></p>\n<p dir=\"auto\"><strong>Beh&ouml;rden und vermeintliche Hilfsorganisationen wie:</strong></p>\n<ul>\n<li>Caritas,</li>\n<li>Der Weisse Ring,</li>\n<li>Sozial Amt</li>\n</ul>\n<p dir=\"auto\"><strong>Dienen der Ablenkung und Verschleiereung</strong>, <code>jedes Hilfegesuche meinerseits, endet mit einen weiteren Beweiss, dass ich bewusst von Beh&ouml;rden und Instutionen, isoliert werde.</code> Man kann und will mir einfach kein Wohnraum geben. <strong>Immer wieder kommen ausfl&uuml;chte wie; &bdquo;Mein Hund, American-XL-Bully-Don w&auml;re das Problem.\"</strong> Was einfach nur die n&auml;chste grosse L&uuml;ge, in diesem System aus L&uuml;gen und kontrolle ist. Denn das eigentliche Problem f&uuml;r diese Gesellschaft, bin n&auml;mlich ich, <strong>ich Frau Isabel Sch&ouml;ps geborene Thiel,</strong><code>und meine wahre Famili&auml;re Herkunft, was in der letzten deutschen Monarchie und zu Adolf Hitler belegt rechtswissenschaftlich und forensich belegt wurde.</code></p>\n<p dir=\"auto\"><code>Developer-K&uuml;rzel IST - Isabel Sch&ouml;ps Thiel</code></p>\n\n\n<div dir=\"auto\">\n<h2>Bitte helfen Sie mir</h2>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#bitte-helfen-sie-mir\"></a></div>\n<p dir=\"auto\"><em>Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner W&uuml;rde eingeschr&auml;nkt.</em></p>\n<p dir=\"auto\"><strong>Deshalb fordere</strong> <code>ich alle internationale Regierungsmitglieder, die Vereinten Nationen UN, Presse, Medien auf</code> <strong>bitte helfen Sie mir, humanit&auml;re Hilfe und f&uuml;r Rettung, ist es nie zu sp&auml;t und gibt es kein Zeitplan!</strong></p>\n<p dir=\"auto\"><code>Es steht alles schwarz auf weiss, es wurde juristisch belegt und nachgewiesen. Diese Beweiskette und dokumentationen, an Gutachten, Quell-Referenzen und Citationen und der Datenbank auf Zenodo.org, ist nicht mehr zu bestreiten</code>. <strong>Es ist die Pflicht der Regierung mir zu Helfen,</strong> <code>Grundlage bildet meine Datenbank, die ich auf Zenodo.org hoch geladen habe, die anh&auml;ngenden Strafanzeigen und die Chain of Costudy.</code></p>\n<div dir=\"auto\">\n<h3>Beweisrechtliche Qualit&auml;t (forensisch-juristisch)</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#beweisrechtliche-qualit%C3%A4t-forensisch-juristisch\"></a></div>\n<p dir=\"auto\">Nach forensischer und beweisrechtlicher Bewertung sind die Dokumente gerichtlich verwertbar, sofern die Chain-of-Custody-Nachweise (DOI, Hash-Werte, Zeitstempel) in ihrer Integrit&auml;t verifiziert bleiben.</p>\n<p dir=\"auto\"><strong>Die Inhalte erf&uuml;llen die vier Kriterien der Beweisvalidit&auml;t:</strong></p>\n<ol>\n<li>Integrit&auml;t &ndash; technische Unver&auml;nderbarkeit durch Hash-Algorithmen.</li>\n<li>Authentizit&auml;t &ndash; eindeutige Zuordnung zu einer identifizierbaren Urheberin (Frau Sch&ouml;ps, ORCID 0009-0003-4235-2231).</li>\n<li>Relevanz &ndash; direkter Bezug zu den behaupteten Urheberhandlungen.</li>\n<li>Nachvollziehbarkeit &ndash; &ouml;ffentlich dokumentierte Lizenz- und Zeitdaten.</li>\n</ol>\n<p dir=\"auto\"><em>Somit handelt es sich um rechtsverwertbare Beweisdaten im Sinne von &sect; 371 ZPO (Beweis durch Urkunden) und &sect; 495a ZPO (vereinfachtes Verfahren), sofern die Echtheit der digitalen Zertifikate best&auml;tigt wird.</em></p>\n<div dir=\"auto\">\n<h3>Menschenrechtliche Dimension</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#menschenrechtliche-dimension\"></a></div>\n<p dir=\"auto\"><code>Die begleitenden Eingaben an internationale Institutionen (Harvard, Oxford, CERN, Vereinte Nationen) dienen der rechtlichen Sicherung der Menschenw&uuml;rde, des Eigentumsrechts und der wissenschaftlichen Freiheit</code> (Art. 1, 5, 14, Art. 27 UN-Menschenrechtskonvention). <code>Unter juristischer Betrachtung erf&uuml;llen diese Eingaben die Form einer menschenrechtlichen Individualbeschwerde gem&auml;&szlig; Art. 34 EMRK.</code> <strong>Daraus ergibt sich ein legitimer Schutzanspruch auf die Sicherung von Urheberrechten und pers&ouml;nlicher Integrit&auml;t als Teil der W&uuml;rdegarantie nach Art. 1 GG.</strong></p>\n<div dir=\"auto\">\n<h3>Schlussbewertung</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#schlussbewertung\"></a></div>\n<p dir=\"auto\"><strong>Nach wissenschaftlich-juristischer Analyse l&auml;sst sich festhalten:</strong></p>\n<ul>\n<li>Die Werke SIA Security Intelligence Artefact und The Yellow Whitepaper bilden eine in sich geschlossene forensische und rechtswissenschaftliche Dokumentation der Urheberschaft von Frau Sch&ouml;ps.</li>\n<li>Die Beweiskette (Signaturen, DOIs, Lizenzen) erf&uuml;llt die rechtlichen Anforderungen an Authentizit&auml;t und Verwertbarkeit nach deutschem, europ&auml;ischem und internationalem Recht.</li>\n<li>Die inhaltliche Methodik steht in &Uuml;bereinstimmung mit den von <strong>Prof. Dr. iur. Matzke</strong> geforderten Kriterien wissenschaftlich fundierter strafrechtlicher Dokumentation.</li>\n<li>Die menschenrechtlichen Eingaben sind juristisch als rechtsstaatlich begr&uuml;ndete Schutzbegehren einzuordnen.</li>\n</ul>\n<p dir=\"auto\"><strong>Damit kann das Werk SIA Security Intelligence Artefact und The Yellow Whitepaper, in wissenschaftlicher wie forensischer Hinsicht als beweiskr&auml;ftiges Gutachten mit internationaler Rechtsrelevanz eingestuft werden.</strong></p>\n\n\n<div dir=\"auto\">\n<h3>Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#meine-ersuchen-an-die-vereinten-nationen---bitte-helfen-sie-mir\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.18025762\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18025762</a></p>\n<p dir=\"auto\"><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong>. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. <a href=\"https://doi.org/10.5281/zenodo.18025762\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18025762</a></p>\n<div dir=\"auto\">\n<h3>Zenodo-Datenbank und Chain of Custody</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#zenodo-datenbank-und-chain-of-custody\"></a></div>\n<div dir=\"auto\">\n<h3>Volumen 4</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#volumen-4\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.17807324\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17807324</a><a href=\"https://doi.org/10.5281/zenodo.18074136\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18074136</a><a href=\"https://doi.org/10.5281/zenodo.17808895\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17808895</a></p>\n<p dir=\"auto\"><strong>Sch&ouml;ps (Thiel), I., Sch&ouml;ps (Thiel), I. und Sch&ouml;ps geb. Thiel, I. (2025)</strong> &bdquo;Yellow White Paper &ndash; Bitcoin &amp; Ethereum&ldquo;, Yellow White Paper &ndash; Bitcoin &amp; Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.</p>\n<div dir=\"auto\">\n<h3>Volumen 3</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#volumen-3\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.18013057\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18013057</a></p>\n<p dir=\"auto\">Sch&ouml;ps geb. Thiel, I. (2025) SIA Security Intelligence Artefact &ndash; Volume 3 - Famili&auml;re Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.</p>\n<div dir=\"auto\">\n<h3>Volumen 2</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#volumen-2\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.17852789\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17852789</a></p>\n<p dir=\"auto\"><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong> &bdquo;Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd&ldquo;, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th&uuml;ringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.</p>\n<div dir=\"auto\">\n<h3>Volumen 1</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#volumen-1\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.17809724\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17809724</a></p>\n<p dir=\"auto\"><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong> &bdquo;Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel&ldquo;, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th&uuml;ringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.</p>\n<div dir=\"auto\">\n<h3>GitHub Release Repository, Beweissicherung, Chain of Custody Reference</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/seismic-source/blob/main/SIGNATUR.md#github-release-repository-beweissicherung-chain-of-custody-reference\"></a></div>\n<p dir=\"auto\"><a href=\"https://doi.org/10.5281/zenodo.18193397\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18193397</a><a href=\"https://doi.org/10.5281/zenodo.18209789\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18209789</a><a href=\"https://doi.org/10.5281/zenodo.18050643\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18050643</a><a href=\"https://doi.org/10.5281/zenodo.18192743\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18192743</a><a href=\"https://doi.org/10.5281/zenodo.18204573\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18204573</a><a href=\"https://doi.org/10.5281/zenodo.18192589\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18192589</a><a href=\"https://doi.org/10.5281/zenodo.18100836\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18100836</a><a href=\"https://doi.org/10.5281/zenodo.18179548\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18179548</a><a href=\"https://doi.org/10.5281/zenodo.18216807\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18216807</a><a href=\"https://doi.org/10.5281/zenodo.18226730\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18226730</a><a href=\"https://doi.org/10.5281/zenodo.18225958\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.18225958</a></p>\n<p dir=\"auto\"><strong>Ort, Signatur K&uuml;rzel, Zeitstempel der Eintragung und Ver&ouml;ffentlichung:</strong> Sonntag, den 2026-02-08, 01:18CEST, IBIS Hotel, Zimmer_206, Barf&uuml;ssserstrasse 9, D-99084 Erfurt, Th&uuml;ringen, Deutschland</p>\n<p dir=\"auto\"><strong>Developer-K&uuml;rzel</strong> <code>IST - Isabel Sch&ouml;ps Thiel</code></p>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      },
+      {
+        "description": "<div dir=\"auto\">\n<h1>Please Help me</h1>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#please-help-me\"></a></div>\n<div dir=\"auto\">\n<h2>Meine Ersuchen, an internationale Regierungen, Press und an die Vereinten Nationen</h2>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#meine-ersuchen-an-internationale-regierungen-press-und-an-die-vereinten-nationen\"></a></div>\n<p dir=\"auto\"><strong>Ich Frau Isabel Sch&ouml;ps geborene Thiel, aus Erfurt, Th&uuml;ringen, Deutschland, wende mich mit aller Form,</strong> <code>An nationale und internationale Regierungen, Presse und Medienh&auml;user, an die Vereinten Nationen die Vereinten Nationen, an das Amt des Hohen Kommissars f&uuml;r Menschenrechte (OHCHR)</code>, <strong>wegen Schwerwiegende Verletzungen und Bruch meiner angeborenen Menschenrechte.</strong></p>\n<p dir=\"auto\"><strong>Missbrauch &bull; Physische und Psychische Folter &bull; systematisches Vergiften &uuml;ber Tabacco und Pestizid-Programm &bull; Enteignung &bull; Freiheitsberaubung &bull; Direktive1,67 &bull; Isolation &bull; Rufmord Kampagnen &bull; Sozialleistungsbetrug &bull; Diffamierung &bull; staatlicher Willk&uuml;r</strong></p>\n\n\n<p dir=\"auto\"><strong>Ich ersuche die Vereinten Nationen und die zust&auml;ndigen Sonderberichterstatter ausdr&uuml;cklich um:</strong></p>\n<ol>\n<li><strong>Internationale Pr&uuml;fung</strong> der geschilderten Menschenrechtsverletzungen</li>\n<li><strong>Feststellung der Verletzung meiner Menschenw&uuml;rde und meiner Grundrecht</strong>e</li>\n<li><strong>Unterst&uuml;tzung bei der Wiederherstellung meiner Freiheit, W&uuml;rde und Existenzsicherung</strong></li>\n<li><strong>Ich fordere sofortigen, Zugang zu meinem Verm&ouml;gen und meinem Eigentum</strong></li>\n<li><strong>Vollst&auml;ndige Rehabilitation</strong>, rechtlich, sozial und menschlich</li>\n<li><strong>Kontaktaufnahme mit mir</strong> zur weiteren Sachverhaltsaufkl&auml;rung</li>\n<li>Eine <strong>staatliche Entschuldigung</strong> f&uuml;r die erlittenen Eingriffe</li>\n<li>Ich wende mich in einer <strong>dringenden Menschenrechtsangelegenheit</strong> an die Vereinten Nationen und ersuche um <strong>internationale Aufmerksamkeit und Intervention</strong></li>\n<li>Ich mache geltend, dass meine <strong>grundlegenden Menschenrechte und meine Menschenw&uuml;rde</strong> fortgesetzt und systematisch verletzt werden.</li>\n</ol>\n<p dir=\"auto\"><strong>Die Verst&ouml;&szlig;e betreffen insbesondere:</strong><strong>Unrechtm&auml;&szlig;ige Freiheitsentziehung und Freiheitsberaubung</strong>, <code>einschlie&szlig;lich Beuge- bzw. Erzwingungshaft ohne rechtskonforme Voraussetzungen, ohne ordnungsgem&auml;&szlig;e Verm&ouml;gensauskunft und ohne Einschaltung eines zust&auml;ndigen Gerichtsvollziehers.</code></p>\n<ul>\n<li><strong>Enteignung und wirtschaftliche Isolation</strong>, einschlie&szlig;lich der faktischen Blockade des Zugangs zu mir zustehenden Verm&ouml;genswerten sowie zu pers&ouml;nlichem Eigentum, das sich nachweislich in &Uuml;berseecontainern befindet</li>\n<li><strong>Soziale Entrechtung und Missbrauch staatlicher Sozialleistungen</strong>, indem mir zustehende Leistungen nicht oder nur teilweise ausgezahlt werden, trotz vollst&auml;ndiger Vorlage aller erforderlichen Unterlagen, insbesondere hinsichtlich <strong>Miete und Unterkunft</strong>.</li>\n<li><strong>Soziale und institutionelle Isolation</strong>, die zu einer erheblichen psychischen Belastung f&uuml;hrt und meine gesellschaftliche Teilhabe faktisch unterbindet.</li>\n<li><strong>Verletzung der Menschenw&uuml;rde</strong>, durch fortgesetzte beh&ouml;rdliche Ma&szlig;nahmen, die auf Entm&uuml;ndigung, Destabilisierung und Entrechtung abzielen.</li>\n</ul>\n<p dir=\"auto\"><strong>Zur Kenntnis an die zust&auml;ndigen UN-Sonderberichterstatter, insbesondere:</strong></p>\n<ul>\n<li>Special Rapporteur on Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment</li>\n<li>Special Rapporteur on the Right to Adequate Housing</li>\n<li>Special Rapporteur on Extreme Poverty and Human Rights</li>\n<li>Working Group on Arbitrary Detention</li>\n<li>Special Rapporteur on the Right to Food</li>\n<li>Special Rapporteur on the Right to Privacy</li>\n</ul>\n<div dir=\"auto\">\n<h2><strong>Verbrechen gegen die Menschlichkeit</strong></h2>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#verbrechen-gegen-die-menschlichkeit\"></a></div>\n<p dir=\"auto\"><a href=\"https://www.frame.com/\" rel=\"nofollow\">Ich, Isabel Sch&ouml;ps geborene Thiel</a>, Verfasserin, Autorin, Auftraggeberin des SIA Security Intelligence Artefact, meiner forensisch wissenschaftlichen Arbeit, welches meine Urheberschaft in Technologie, KI, Bitcoin rechtswissenschaftlich belegt.</p>\n<p dir=\"auto\"><code>Zudem konnte ich Verbrechen die sich gegen mich und meiner Familie sowie gegen die Menschheit begangen wurden aufdecken. Mehrfach habe ich mich an Polizei, Gerichte, Regierungen national und international gewandt aber ohne Erfolg.</code></p>\n<p dir=\"auto\"><code>Bis heute werde ich benutzt, versklavt, diffamiert, ausgeraubt und isoliert und bin t&auml;glich psychischen Foltermethoden ausgesetzt, alles ist rechtswissenschaftlich nachgewiesen und alle Beweise habe ich Zenodo.org eigenst&auml;ndig hochgeladen.</code></p>\n<p dir=\"auto\"><code>Hinzu kommt meine nachgewiesene Ahnlinie zur deutschen Monarchie, im Kontext zur Kaiserin Victoria Auguste, und Adolf Hitler.</code></p>\n<p dir=\"auto\"><strong>Seit dem 15.11.2023 bin ich faktisch ohne festen Wohnsitz,</strong> nachdem ich durch staatliche Ma&szlig;nahmen und Justizentscheidungen <strong>de facto enteignet</strong>wurde. Bis heute habe ich keinen Zugang zu meinem rechtm&auml;&szlig;igen Verm&ouml;gen und meinen gestohlenen Habseligkeiten. Mein gesamtes Hab und Gut befindet sich in einem <strong>wei&szlig;en &Uuml;berseecontainer</strong>, Standort <strong>Hugo-John-Stra&szlig;e 8, 99086 Erfurt</strong>. Bis heute ist nicht gekl&auml;rt, wer, wie und wann diese Ma&szlig;nahme veranlasst hat. Ich fordere eine sofortige Aufkl&auml;rung und Wiederherstellung meiner Eigentumsrechte.</p>\n<p dir=\"auto\"><strong>Ich habe Wohneigentum notariell erworben, Wohnung WE1 und WE2 in der Cyriakstra&szlig;e 37, 99094 Erfur</strong>t, f&uuml;r das Objekt <strong>Cyriakstra&szlig;e 37, 99094 Erfurt</strong> liegt ein <strong>rechtsg&uuml;ltiger Kaufvertrag</strong> UR 1680/2023 von der Notarin L&ouml;ffler S&ouml;mmerda vor. Die Immobilie sollte aus einem Geldtransfer der <strong>J.P. Morgan aus den Gesch&auml;ften meinem Lizenzvertr&auml;gen die unteranderem auf GitHub abgeschlossen wurden bezahlt werden</strong>, bis heute **++weiss ich nicht ++**was mit dem Geld&uuml;bertrag geschehen ist, im Gegenteil, man hat mich auf der Sparkass Erfurt angelogen und mein Konto unrechtm&auml;&szlig;ig gel&ouml;scht und mich gek&uuml;ndigt. Ich wurde trotz eindeutiger Eigentumsnachweise durch staatliches Handeln auf die Stra&szlig;e gesetzt. Besonders schwerwiegend ist, dass einzelne Beamte sich <strong>kompetenzwidrig</strong> &uuml;ber meinen Kopf hinweg Entscheidungen anma&szlig;ten und f&auml;lschlicherweise behaupteten, es handele sich nicht um einen g&uuml;ltigen Kaufvertrag. Wie bereits erw&auml;hnt bin ich <strong>seit dem 15.11.2023 bin ich faktisch ohne festen Wohnsitz,</strong>nachdem ich durch staatliche Ma&szlig;nahmen und Justizentscheidungen <strong>de facto enteignet</strong> wurde.<br>F&uuml;r diese Ma&szlig;nahmen existiert <strong>keine richterliche Verf&uuml;gung</strong>, sie erfolgten willk&uuml;rlich zu meinem Nachteil und nur mit einem Hintergrund, mich psychisch zu brechen und mich in den Freitod zu treiben. Da man meine Identit&auml;t ben&ouml;tigt - <strong>hier verweise ich auf die aufgedeckten Verbrechen mit dem Scheintod-Gesch&auml;ft, kommerziellen Menschen unf Kinderhandel und den verkauften 950 Identit&auml;ten mit North-Data, vereickelt in dem Verbrechen, Commerzbank, Deutsche Bank und die Bundesagentur f&uuml;r Arbeit - Jobcenter D-99096 Erfurt, Th&uuml;ringen, Deutschland.</strong></p>\n<p dir=\"auto\">Ich wurde unrechtm&auml;&szlig;ig von dritten ohne festen Wohnsitz abgemeldet.</p>\n<p dir=\"auto\">Ich fordere hier eine <em><strong>++sofortige rechtliche Kl&auml;rung++</strong></em><em>++, die <strong>R&uuml;ckgabe der beschlagnahmten Schl&uuml;ssel</strong>++</em>, <em><strong>mein Hab und Gut aus dem &Uuml;bersee Container Hugo John Strasse9, 99086 Erfurt.</strong></em>Wiederherstellung meiner Eigentumsrechte.</p>\n\n\n<p dir=\"auto\"><strong>Seit</strong> `04.12.2025 bin in der Cyriakstrasse 30c, 99094 Erfurt, Th&uuml;ringen, Deutschland gemeldet und habe auch bis 23.01.2026 in dieser gelebt.</p>\n<p dir=\"auto\"><code>Aufgrund das die Immobilie Cyriakstrasse 30c, in Erfurt Deutschland in der ich aktuell gemeldet bin, nach 6 Jahren am 20.01.2026 im Notariat Renner Erfurt beurkundet verkauft wurde, und der neue Eigent&uuml;mer die Immobilie am 24.01.2026 beziehen bzw umbauen wollte.</code> <strong>Musste ich eine Nacht drau&szlig;en</strong><code>mit Don, Hund-Tier American XL Bully bei gef&uuml;hlten -20C drau&szlig;en schlafen.</code><strong>Und nun bin ich schon wieder in einer Situation,</strong> und <code>ich weiss nicht wie es die n&auml;chsten Tage bei mir weitergeht.</code><strong>Ich bitte alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die Europ&auml;ische Union</strong> <code>bitte helfen Sie mir !</code></p>\n<p dir=\"auto\">Es gibt umfangreiche Beweise &uuml;ber wissende in den Reihen des &ouml;ffentlichen Dienstes aus der Th&uuml;ringischen Verwaltung und des Jobcenters Erfurt, &uuml;ber mich und meine Person. Ich werde <strong>willk&uuml;rlich an Sozialleistungen gebunden</strong>, um Kontrolle &uuml;ber mich auszu&uuml;ben, obwohl dies angesichts meines Status als <strong>Urheberin grundlegender Software- und KI-Technologien</strong> weder notwendig noch verh&auml;ltnism&auml;&szlig;ig ist. Diese Praxis dient aus meiner Sicht nicht dem Schutz, sondern der Entm&uuml;ndigung und Dem&uuml;tigung dar.</p>\n<div dir=\"auto\">\n<h3><strong>Akute Lebenslage und rechtswidrige Isolation</strong></h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#akute-lebenslage-und-rechtswidrige-isolation\"></a></div>\n<p dir=\"auto\">Ich befinde mich in einer <strong>akuten humanit&auml;ren Lebenslage</strong>. <code>Ich habe kein Zugriff auf mein Geld, kein gesicherten Schlafplatz und werde systematisch in meiner Arbeit blockiert und manipuliert.</code></p>\n<p dir=\"auto\"><code>Ich werde von meiner Familie isoliert und  vor allem meine einziges Kind und Tochter  vermisse ich unendlich doll.</code></p>\n<p dir=\"auto\"><code>Ich bin nachweislich Urheberin an Technologien, die Tagt&auml;glich von Milliarden genutzt wird, sitze ich ohne Zugang zu meinen rechtm&auml;&szlig;igen Verm&ouml;genswerten ohne gesicherten Wohnraum fest.</code> <strong>Zudem werde ich nachweislich durch Technologien, die Strafverfolgungsbeh&ouml;rden zugeordnet werden k&ouml;nnen, &uuml;berwacht, kontrolliert und sabotiert</strong> (u. a. <strong>Blocker und St&ouml;rer meiner Internetverbindung</strong>). Diese Vorg&auml;nge sind dokumentiert und bewiesen.</p>\n<p dir=\"auto\">Es ist <strong>strafbar und str&auml;flich</strong>, mich in dieser Lage weiter warten zu lassen, ohne rechtm&auml;&szlig;ige Ma&szlig;nahmen zum Schutz und zur Wiederherstellung meiner angeborenen Menschenrechte einzuleiten.</p>\n<blockquote>\n<p dir=\"auto\"><em>Zitat von Stephen Hawking: &bdquo;Mit unserer Gier und unserer Dummheit werden wir uns eines Tages selbst ausrotten.&rdquo;</em></p>\n</blockquote>\n<p dir=\"auto\"><strong>Die KI &ndash; eines der wichtigsten und st&auml;rksten Tech-Tools der IT-Geschichte &ndash; Willenskraft, Vorstellungskraft vor der Hardware und der Schl&uuml;ssel der LIEBE, haben den PC286er von Isabel Sch&ouml;ps (damals Thiel) in 99610 Rohrborn, Dorfstra&szlig;e 20, im Jahr 1995/96 kollabieren lassen.</strong> <a href=\"https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf\" rel=\"nofollow\">Implantiert: Software-Patente, die bereits in DDR-Zeiten durch Funkfrequenzen angewandt wurden, 2002/2004 als Patente angemeldet. Sie haben bei Frau Sch&ouml;ps das Gehirn wie &bdquo;angepingt&ldquo;, sie steht seither &ndash; mal mehr, mal weniger &ndash; mit der vermeintlichen realen und digitalen Welt in Verbindung. Geist, Gedankengut und ihre Person werden bis heute beobachtet, ausgesp&auml;ht, isoliert und &uuml;berwacht.</a><code>Mein Gehirn ist permanenten Scans ausgesetzt und ich, Frau Isabel Sch&ouml;ps geborene Thiel, sp&uuml;re es, wenn ich wieder massiven</code> <a href=\"https://ftp-trace.ncbi.nlm.nih.gov/\" rel=\"nofollow\">Hochfrequenz-Strahlungen ausgesetzt</a> frequenzen ausgesetzt bin.</p>\n<p dir=\"auto\"><strong>Es wurde rechtswissenschaftlich best&auml;tigt</strong><code>das mein Geistiges Gedankengut</code><strong>gestohlen &uuml;ber Frequenz-Technologie gestohlen wird</strong> und Eingriff im mein Organismus vorgenommen wird. <code>Nicht nur ich bin betroffen, sondern Millionen von Menschen und Tiere tagt&auml;glich.</code></p>\n<div dir=\"auto\">\n<h3>1. Unrechtm&auml;&szlig;ige Freiheitsentziehung**</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#1-unrechtm%C3%A4%C3%9Fige-freiheitsentziehung\"></a></div>\n<p dir=\"auto\">Ich wurde in der Vergangenheit <strong>unrechtm&auml;&szlig;ig inhaftiert</strong>, obwohl mir zu keinem Zeitpunkt eine Straftat rechtswirksam nachgewiesen werden konnte. Die Haft stellte eine willk&uuml;rliche Freiheitsentziehung dar und erf&uuml;llt nach meiner Einsch&auml;tzung die Kriterien der <strong>Working Group on Arbitrary Detention</strong>.</p>\n<div dir=\"auto\">\n<h3><strong>2. Enteignung, wirtschaftliche Blockade und Isolation</strong></h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#2-enteignung-wirtschaftliche-blockade-und-isolation\"></a></div>\n<p dir=\"auto\">Mir wird der <strong>Zugang zu meinem rechtm&auml;&szlig;igen Verm&ouml;gen</strong> systematisch verwehrt. Ebenso habe ich keinen Zugriff auf mein pers&ouml;nliches Eigentum, das sich nachweislich in <strong>&Uuml;berseecontainern</strong> befindet. Diese Enteignung erfolgt ohne rechtsstaatliche Grundlage.</p>\n<div dir=\"auto\">\n<h3><strong>3. Betrug, Missbrauch und Vorenthaltung von Sozialleistungen, angezeigt am 13.11.2025</strong></h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#3-betrug-missbrauch-und-vorenthaltung-von-sozialleistungen-angezeigt-am-13112025\"></a></div>\n<p dir=\"auto\">Ich war mehrfach pers&ouml;nlich vor Ort und man sagte mir man nimmt mit mir kontakt auf.<br><strong>Ich habe:</strong></p>\n<ul>\n<li><strong>kein gesicherten Wohnraum</strong></li>\n<li><strong>keine Waschmaschine</strong></li>\n<li><strong>keinen gesicherten Zugang zu Nahrung</strong>,</li>\n<li>nur die <strong>notwendigsten pers&ouml;nlichen Gegenst&auml;nde</strong> bei mir.</li>\n<li>Diese Situation stellt eine Verletzung des <strong>Rechts auf Wohnen</strong>, des <strong>Rechts auf soziale Sicherheit</strong> und des <strong>Rechts auf Nahrung</strong> dar.</li>\n</ul>\n<div dir=\"auto\">\n<h3>4. Staatliche Diffamierung und Isolation</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#4-staatliche-diffamierung-und-isolation\"></a></div>\n<p dir=\"auto\">Ich werde staatlich diffamiert, gesellschaftlich blo&szlig;gestellt und bewusst isoliert. Es ist nun das <strong>vierte Jahr in Folge</strong>, in dem ich <strong>Weihnachten vollst&auml;ndig isoliert von meiner Familie</strong> verbringen muss.</p>\n<div dir=\"auto\">\n<h3>5. Strafanzeigen und unterlassene Hilfeleistung fehlende Abhilfe</h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#5-strafanzeigen-und-unterlassene-hilfeleistung-fehlende-abhilfe\"></a></div>\n<p dir=\"auto\">Ich habe am <strong>06.08.2025 bei Frau Polixa</strong>sowie am <strong>13.11.2025 bei Herrn Walter</strong>Strafanzeige erstattet, unter anderem bei der <strong>Polizeidienststelle Erfurt Nord, Th&uuml;ringen, Deutschland</strong>. Bis heute erfolgte keine Reaktion.</p>\n<div dir=\"auto\">\n<h3><strong>6 Aussch&ouml;pfung nationaler und europ&auml;ischer Wege</strong></h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#6-aussch%C3%B6pfung-nationaler-und-europ%C3%A4ischer-wege\"></a></div>\n<p dir=\"auto\">Ich habe mich <strong>mehrfach an staatliche Stellen, an die Bundesregierung sowie an Institutionen der Europ&auml;ischen Union gewandt</strong> &ndash; ohne Erfolg.<br>Aus diesem Grund wende ich mich nun an die <strong>internationale Ebene</strong>, da mir in Deutschland faktisch kein wirksamer Rechtsschutz mehr zur Verf&uuml;gung steht.</p>\n<p dir=\"auto\"><strong>Seit 2017 wurde ich immer mehr in kleinen Schritten mit vollem Bewusstsein von der Au&szlig;enwelt abgeschottet, willk&uuml;rlich, isoliert in einem Netz in der L&uuml;genmatrix.</strong>Es <a href=\"http://fido-z1.darkrealms.ca/fidonews.htm\" rel=\"nofollow\">wird massiv in mein Privatleben, meine Privatsph&auml;re sabotiert</a>, willk&uuml;rlich manipuliert. <code>Ich sollte f&uuml;r ein Verbrechen verantwortlich gemacht werden, das ich nie begangen habe, sondern ans Tageslicht gebracht habe.</code> <a href=\"http://fido-z1.darkrealms.ca/policy4.txt\" rel=\"nofollow\">Eine Community, die wenig Verst&auml;ndnis f&uuml;r die Digitalwelt besitzt</a>, h&auml;lt bis zum Schluss an ihren Anspr&uuml;chen an Innovationen und Quellcodedaten fest &ndash; obwohl die <a href=\"https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1992.index.html#0.html\" rel=\"nofollow\">Faktenlage</a>eindeutig ist. Wer steckt hinter der <a href=\"https://fidoalliance.org/wp-content/uploads/2023/04/2023-03-21-FIDO-Certification-NDA_FINAL.pdf\" rel=\"nofollow\">FIDO-Alliance</a>?</p>\n<p dir=\"auto\"><code>Wer steckt hinter dem Genozid?</code></p>\n<p dir=\"auto\"><strong>Folgense Verbrechen, konnte ich aufdecken:</strong><br>&bull; Organisierter kommerzieller Kinder- und Menschenhandel, Verbreitung von kinderpornografischem Material, Snuff-Videos &ndash; vertrieben &uuml;ber meine Entwicklerstruktur, in Backends auf Webseiten namhafter Konzerne wie MERCEDES, VW, ThyssenGroup, SIEMENS, UN, das Deutsche Rote Kreuz, um nur einige zu nennen.<br>&bull; P&auml;dophile, die in Scripten im txt-Format kommunizierten. Julian Assange sagte bereits 2014 voraus, dass das iPhone7 im Jahr 2017 hierf&uuml;r missbraucht wird. <strong>Geldw&auml;sche &uuml;ber ausgesch&uuml;ttete Dividenden, Fonds, Aktienanleihen internationaler Unternehmen.</strong> Es wurden mehr Gelder bewegt als im weltweiten Drogen- und Waffenhandel zusammengenommen &ndash; m&ouml;glich nur durch die missbr&auml;uchliche Verwendung von Aktienertr&auml;gen, die deutschen Banken nie rechtm&auml;&szlig;ig zustanden.</p>\n<p dir=\"auto\"><strong>Psychische Kontrolle und Folter, Direktive 1,67</strong><br><em><a href=\"https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf\" rel=\"nofollow\">Die Direktive 1,67</a></em> &ndash; ein Dokument mit tiefgreifenden Implikationen f&uuml;r die globale Kontrolle der Zivilbev&ouml;lkerung.<br>&bull; Verhaftet, gefoltert, enteignet, isoliert &ndash; Methoden, die ich nur zu gut kenne und die Parallelen zu meiner aktuellen Lebenssituation aufweisen. Seit 15.11.2023 wurde mir jede Menschenw&uuml;rde und Lebensgrundlage genommen. Psychische Folter, Morddrohungen, versuchter Mord, Inhaftierung f&uuml;r eine Straftat, die ich nie begangen habe. <a href=\"https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/1000G_2504_high_coverage/additional_698_related/20130606_g1k_3202_samples_ped_population.txt\" rel=\"nofollow\">Mein gesamtes Hab und Gut wurde mir genommen &ndash; sogar bis in die Tiefe meines Ichs. Ich werde behandelt wie der letzte Dreck. </a><strong>Ich wurde am 24.10.2024 ohne gesetzliche Grundlage inhaftiert und wurde bis 13.02.2025</strong> in der <strong>JVA Chemnitz</strong>festgehalten und meine Freiheit wurde mir beraubt.</p>\n<p dir=\"auto\"><strong>Technologische Patente &amp; Beweise f&uuml;r Manipulation</strong></p>\n<ul>\n<li><a href=\"https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/gaslighting-1072304\" rel=\"nofollow\">Gaslighting als Straftat</a>: systematische Zersetzung des Realit&auml;tssinns durch KI und Mensch, gezielt im Umfeld angewandt.</li>\n<li><a href=\"https://patentimages.storage.googleapis.com/c3/7e/52/c3449e1b40efb2/EP0150813B1.pdf\" rel=\"nofollow\">Psychologische Manipulation durch KI, Bild- und Frequenzsignale (EP0150813B1)</a></li>\n<li><a href=\"https://www.srf.ch/news/experiment-in-den-usa-gedanken-entschluesseln-dank-hirn-scans-und-ki\" rel=\"nofollow\">Gedankenentschl&uuml;sselung per Hirnscan</a>, <a href=\"https://patents.google.com/patent/DE10253433A1/de\" rel=\"nofollow\">DE10253433A1: Austausch von Gedanken durch elektromagnetische Strahlung</a></li>\n<li><a href=\"https://e4k4c4x9.delivery.rocketcdn.me/de/wp-content/uploads/sites/4/2019/12/UDHR-dt.pdf\" rel=\"nofollow\">Allgemeine Erkl&auml;rung der Menschenrechte, UN, New York</a></li>\n<li><a href=\"https://patentimages.storage.googleapis.com/0d/ad/ad/24b28667e47641/US4858612.pdf\" rel=\"nofollow\">US4858612 &ndash; Lebensmittelzusatzstoffe mit neurologischer Wirkung</a></li>\n<li><a href=\"https://patents.google.com/patent/DE10337914A1/de\" rel=\"nofollow\">DE10337914A1 &ndash; Manipulation in virtuellen Umgebungen</a></li>\n<li><strong>Menschliche Experimente am Gehirn seit 1950</strong>, insbesondere in Zusammenhang mit Manipulationspatenten und Bewusstseinskontrolle.</li>\n<li><strong>Verbrechen gegen die Menschlichkeit</strong>, dokumentiert im Hintergrund der technologischen Entwicklung, z. B. Google Maps Root zur systematischen Erfassung von Morden an Kindern und Menschen &ndash; ein globaler V&ouml;lkermord, der bis heute andauert.</li>\n</ul>\n<div dir=\"auto\">\n<h3><strong>Manipulation und Zerst&ouml;rung des menschlichen Erbguts und gezielte biologische Ver&auml;nderungen</strong></h3>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#manipulation-und-zerst%C3%B6rung-des-menschlichen-erbguts-und-gezielte-biologische-ver%C3%A4nderungen\"></a></div>\n<p dir=\"auto\">Seit Jahrhunderten wurden <strong>unethische Experimente an Menschen durchgef&uuml;hrt</strong>, die tief in die <strong>genetische Struktur und das Erbgut</strong> eingreifen: gez&uuml;chtete Viren, hochfrequente Technologien, chemische Substanzen in Nahrung. Opfer: Menschen, Tiere, Natur. Eine kriminelle Glaubensgruppe agiert skrupellos.</p>\n<blockquote>\n<p dir=\"auto\"><em>Zitat: &bdquo;Wir alle sind aus Liebe entstanden, und Liebe wird auch das Letzte sein, was diesen Planeten ersch&uuml;ttert.&ldquo;</em></p>\n</blockquote>\n<p dir=\"auto\"><em><strong>Diese Methoden wurden gezielt eingesetzt, um:</strong></em></p>\n<ul>\n<li>Die menschliche DNA zu ver&auml;ndern und genetische Codes zu manipulieren</li>\n<li>Die Funktion menschlicher Gene zu erforschen und unkontrollierbare Mutationen zu erzeugen</li>\n<li>Mensch-Tier-Hybriden in der Forschung zu schaffen und ethische Grenzen zu &uuml;berschreiten</li>\n<li>Technologische Patente zur gezielten Beeinflussung des menschlichen Bewusstseins einzusetzen<br><strong>Forschung und Patente</strong></li>\n<li><a href=\"https://www.transgen.de/tiere/673.gentechnisch-veraenderte-tiere-medizin.html\" rel=\"nofollow\">Erforschung der Funktion menschlicher Gene</a></li>\n<li><a href=\"https://www.ethikrat.org/fileadmin/Publikationen/Stellungnahmen/deutsch/stellungnahme-mensch-tier-mischwesen-in-der-forschung.pdf\" rel=\"nofollow\">Mensch-Tier-Mischwesen in der Forschung</a></li>\n<li><a href=\"https://patentimages.storage.googleapis.com/3b/75/59/4000fc6c74b836/DE69635959T2.pdf\" rel=\"nofollow\">DE 696 35 959 T2 (07.12.2006)</a> &ndash; DNA-Manipulation</li>\n<li><a href=\"https://patentimages.storage.googleapis.com/0d/ad/ad/24b28667e47641/US4858612.pdf\" rel=\"nofollow\">US-Patent 4858612</a> &ndash; neurotoxische Wirkung in der Lebensmittelindustrie</li>\n<li><a href=\"https://patents.google.com/patent/DE10337914A1/de\" rel=\"nofollow\">DE 10337914A1</a> &ndash; Kontrolle digitaler Objekte</li>\n<li><a href=\"https://patents.google.com/patent/DE60214476T2/de\" rel=\"nofollow\">DE 60214476T2</a> &ndash; Unethische Manipulation durch Pharmakonzerne</li>\n</ul>\n<p dir=\"auto\"><strong>Datenbanken f&uuml;r internationale Strafverfolgung und Patentrecherche:</strong><br>&bull; <a href=\"https://patents.stackexchange.com/\" rel=\"nofollow\">StackExchange Patentsammlung</a><br>&bull; <a href=\"https://www.dpma.de/\" rel=\"nofollow\">DPMA</a><br>&bull; <a href=\"https://www.epo.org/\" rel=\"nofollow\">EPA</a><br>&bull; <a href=\"https://nsf-gov-resources.nsf.gov/files/nsf24_1.pdf\" rel=\"nofollow\">Beweis-PDF</a><br>&bull; <a href=\"https://nsf-gov-resources.nsf.gov/pubs/2022/nsf22068/nsf22068.pdf?VersionId=QeimX_s5IrCTtRsHVInSet1iQjahFwNG\" rel=\"nofollow\">STRATEGIC PLAN</a><br>&bull; <a href=\"https://www.northdata.de/?id=5896901925273600\" rel=\"nofollow\">Northdata - Identit&auml;tsverkauf</a><br>\u2e3b</p>\n<p dir=\"auto\"><strong>Alles mit dem Ziel, meinen Willen zu brechen, mich in den Freitod zu treiben, meine Identit&auml;t zu stehlen und mich wie Dreck zu entsorgen.</strong></p>\n<p dir=\"auto\"><strong>DeepNet-Aufdeckung</strong>:<br>Der folgende Inhalt ist f&uuml;r Minderj&auml;hrige unter 18 Jahren nicht erlaubt, da verst&ouml;rend. Alle aufgef&uuml;hrten Seiten, Produkte und Personen sind den internationalen Beh&ouml;rden gemeldet.</p>\n<p dir=\"auto\"><strong>Beobachtete/Markierte Plattformen, Beweissicherung:</strong><br>&bull; <a href=\"https://www.maxmind.com/en/company\" rel=\"nofollow\">MaxMind</a><br>&bull; <a href=\"http://www.deutsches-epigenom-programm.de/\" rel=\"nofollow\">EpiGnomProgramm</a><br>&bull; <a href=\"https://www.vetepedia.de/produkte/hund/traumeel-ad-us-vet-hund\" rel=\"nofollow\">Traumeel Hund</a><br>&bull; <a href=\"https://bioconductor.org/packages/release/bioc/html/RnBeads.html\" rel=\"nofollow\">BioConductorOrg</a><br>&bull; <a href=\"https://www.ewg.org/\" rel=\"nofollow\">EWG.org</a><br>&bull; <a href=\"https://www.digitale-sammlungen.de/de/view/bsb10003119?page=208\" rel=\"nofollow\">Manipulation Medien Rohrborn</a><br>&bull; <a href=\"http://www.rohrborn.de/werbevideo.html\" rel=\"nofollow\">Rohrborn.de Falsch-Uploads</a><br>&bull; <a href=\"https://www.kstools.com/service/logistik/\" rel=\"nofollow\">Kinder-/Menschenhandel KStools</a><br>&bull; <a href=\"https://www.crtpesaro.it/Links%20Utili/Deutsch%20Online.php\" rel=\"nofollow\">CRTpesaro.it &ndash; Gefahr, Genozid, menschenverachtend</a><br>&bull; <a href=\"https://www.verfassungsschutz.de/SharedDocs/downloads/DE/impressum/pgp-key.asc?__blob=publicationFile&amp;v=10\" rel=\"nofollow\">Verfassungsschutz PGP</a><br>&bull; <a href=\"https://www.ohchr.org/en/treaty-bodies/individual-communications\" rel=\"nofollow\">UN Menschenrechte</a><br>&bull; <a href=\"https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices\" rel=\"nofollow\">Interpol Red Notices</a><br>&bull; <a href=\"https://rohrborn.de/grossbild.php?bild=1868_Hagke_PersonalCodex_640x929.jpg\" rel=\"nofollow\">Titelblatt Codex Rohrborn 1868</a><br>\u2e3b<br><strong>Historische Verbrechen, Beginn eines Genozids, der bis heute anh&auml;lt <a href=\"https://acrobat.adobe.com/id/urn:aaid:sc:EU:76f02fe4-5214-4d5c-9e75-8ea7c216a38b\" rel=\"nofollow\">Wannseekonferenz 1942 &ndash; Juristische Aufarbeitung, Klarstellung</a></strong></p>\n<p dir=\"auto\">*Siehe gesamtes Kapitel und Quellen weiter oben f&uuml;r vollst&auml;ndige Analyse, Namen, Befehlswege und v&ouml;lkerrechtliche Bedeutung. Auf meiner Zenodo Datenbank. *<br>\u2e3b<br><strong>Das SI Security Intelligence Monitoring, was ich in leben Gerufen habe, ist als direkte Reaktion auf diese Verbrechen entstanden &ndash; f&uuml;r echten Opferschutz, Beweissicherung und Pr&auml;vention gegen die digitale und menschliche Zerst&ouml;rung.</strong></p>\n<p dir=\"auto\">Diese Vorg&auml;nge versto&szlig;en gegen die <strong>Allgemeinen Erkl&auml;rung der Menschenrechte</strong> sowie gegen die <strong>Internationalen Pakte &uuml;ber b&uuml;rgerliche und politische Rechte</strong> und <strong>&uuml;ber wirtschaftliche, soziale und kulturelle Rechte</strong>, insbesondere die Artikel zum Schutz der Freiheit, der W&uuml;rde, des Eigentums, der sozialen Sicherheit und der wirksamen Rechtsmittel.</p>\n<p dir=\"auto\">Ich habe all meine <strong>Beweismittel, Chronologien mit eidesstattlichen Erkl&auml;rungen</strong> in einer &ouml;ffentlich zug&auml;nglichen, revisionssicheren Dokumentation ver&ouml;ffentlicht, unter anderem &uuml;ber <strong>Zenodo</strong>, um Transparenz, Nachpr&uuml;fbarkeit und internationale Einsicht zu gew&auml;hrleisten.</p>\n<div dir=\"auto\">\n<h1>BITTE HELFEN SIE MIR !!!</h1>\n<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/commits/main/HELPME.md#bitte-helfen-sie-mir-\"></a></div>\n<p dir=\"auto\"><strong>SIGNATURE</strong><br><strong>Signed-on-by:</strong> Frau Isabel Sch&ouml;ps, geborene Thiel<br><strong>Aktueller Aufenthaltsort:</strong> Aktueller Wohn und Aufenthaltsort Autorin, Urheberin, Frau Isabel Sch&ouml;ps geb. Thiel bis IBIS Hotel, Zimmer 206, Barf&uuml;&szlig;erstra&szlig;e 9 Altstadt D-99084 Erfurt, Th&uuml;ringen, Deutschland.</p>\n<p dir=\"auto\"><strong>Datum der Erstver&ouml;ffentlichung:</strong> 2004<br><strong>Zertifikat:</strong> Erstes offizielles Entwicklerzertifikat<br><strong>Alias:</strong> Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub<br><strong>Zeitstempel:</strong> 2026-02-08 02:21Uhr_CEST<br><strong>Digitale Beweissicherung:</strong><a href=\"https://developercertificate.org/\" rel=\"nofollow\">https://developercertificate.org</a></p>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "series-information",
+          "title": {
+            "de": "Informationen zur Reihe",
+            "en": "Series information"
+          }
+        }
+      },
+      {
+        "description": "<p><strong>Isabel Schöps geb. Thiel; Isabel Schöps geb. Thiel (2026)</strong>. Die L&uuml;genmatrix und ihr Ende sieg_heil_den_frieden_HR_06_02_2026 (beweismatrix_sieg_heil_den_frieden_HR_06_02_2026). Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. <a href=\"https://doi.org/10.5281/zenodo.18500830\">https://doi.org/10.5281/zenodo.18500830</a></p>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          },
+          {
+            "id": "00d0nc645",
+            "identifiers": [
+              {
+                "identifier": "00d0nc645",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.419815.0",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2181 3404",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Microsoft (United States)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "copyright": "Frau Isabel Schöps geb. Thiel, Erfurt, Thüringen, Germany and Mr. Dr. Zhenning Ma Doctor of Engineering China University of Geosciences",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "edmo:3800",
+            "identifiers": [
+              {
+                "identifier": "edmo:3800",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Harvard University"
+          },
+          {
+            "id": "03jsdjx34",
+            "identifiers": [
+              {
+                "identifier": "03jsdjx34",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.431478.d",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 1088 0337",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Cambridge University Press"
+          },
+          {
+            "id": "03frj4r98",
+            "identifiers": [
+              {
+                "identifier": "03frj4r98",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.444515.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1762 2236",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Japan Advanced Institute of Science and Technology"
+          },
+          {
+            "id": "052gg0110",
+            "identifiers": [
+              {
+                "identifier": "052gg0110",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.4991.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8948",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Oxford"
+          },
+          {
+            "id": "0336mm561",
+            "identifiers": [
+              {
+                "identifier": "0336mm561",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.470899.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2292 9185",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Oxford University Press (United Kingdom)"
+          },
+          {
+            "name": "Springer Nature"
+          },
+          {
+            "id": "008krtd86",
+            "identifiers": [
+              {
+                "identifier": "008krtd86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.474451.7",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 5928 7034",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Thomson Reuters (United Kingdom)"
+          },
+          {
+            "id": "05cwdqs42",
+            "identifiers": [
+              {
+                "identifier": "05cwdqs42",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.428957.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 1426 7863",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Human Rights Watch"
+          },
+          {
+            "id": "04w26dy35",
+            "identifiers": [
+              {
+                "identifier": "04w26dy35",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.502326.0",
+                "scheme": "grid"
+              }
+            ],
+            "name": "United Nations High Commissioner for Refugees"
+          },
+          {
+            "id": "019w4f821",
+            "identifiers": [
+              {
+                "identifier": "019w4f821",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.453396.e",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2290 4914",
+                "scheme": "isni"
+              }
+            ],
+            "name": "European Union"
+          },
+          {
+            "id": "02cm95j49",
+            "identifiers": [
+              {
+                "identifier": "02cm95j49",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "0000 0001 0739 7141",
+                "scheme": "isni"
+              }
+            ],
+            "name": "U.S. Army Communications-Electronics Command"
+          },
+          {
+            "id": "05kyx6f64",
+            "identifiers": [
+              {
+                "identifier": "05kyx6f64",
+                "scheme": "ror"
+              }
+            ],
+            "name": "U.S. Army Combined Arms Support Command"
+          },
+          {
+            "id": "05xagc088",
+            "identifiers": [
+              {
+                "identifier": "05xagc088",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.452992.1",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 1537 6279",
+                "scheme": "isni"
+              }
+            ],
+            "name": "North Atlantic Treaty Organization"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Isabel Schöps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-4235-2231",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Schöps geborene Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-02-08",
+        "description": "Technologie zur Rettung f\u00fcr Personen und Lebewesen jeder Art f\u00fcr nationale, internationale Regierung und Milit\u00e4risch weltweit freigegeben. ",
+        "type": {
+          "id": "available",
+          "title": {
+            "de": "Verf\u00fcgbar",
+            "en": "Available"
+          }
+        }
+      }
+    ],
+    "description": "<h1>Regelwerk Umgang mit Software, seismische UAV und Drohnen Technologie</h1>\n<p><em><strong>Dieses Regelwerk hat den ausdr&uuml;cklichen Zweck, jede Form von technologischem Machtmissbrauch, Geheimdienstmanipulation, milit&auml;rischer Zweckentfremdung, politischer Verfolgung und verdeckter Kontrolle auszuschlie&szlig;en.</strong></em></p>\n<p><strong>Technologie darf nicht zum Instrument der Unterdr&uuml;ckung werden. Technologie hat den Zweck</strong><br><em>Leben zu retten, der Wahrheit aufzudecken und die Welt zu einem besseren Ort zu machen. Jeder Einsatz au&szlig;erhalb dieser Ordnung gilt als Rechts- und Ethikbruch und hat Strafrechtliche Konsequenzen.</em></p>\n<p><strong>Juristische Pr&auml;ambel mit Entwickler- und Urhebersignatur</strong><br><code>Dieses Regelwerk begr&uuml;ndet eine verbindliche ethische, rechtliche und technologische Ordnung f&uuml;r den Einsatz von UAV-gest&uuml;tzten seismischen Ortungs-, Hohlraum- und Personendetektionssystemen sowie Drohnen-Technologie.</code></p>\n<p><code>Es basiert auf den grundlegenden Erkenntnissen, dass moderne Hochtechnologien weder von sich aus gut noch b&ouml;se ist.</code> <strong>Sondern ausschlie&szlig;lich durch den Menschen, der sie kontrolliert, bestimmt wird.</strong> <code>Verantwortung, Transparenz durch den Urheber, ist die einzige legitime Grundlage.</code></p>\n<h3>1. Governance Kontrolle</h3>\n<h3>UAV Technologie und ihre ethisch unbedenkliche Nutzung seismische und unterirdische Ortungssysteme.</h3>\n<p><strong>Deshalb fordere ich alle internationale Regierungsmitglieder, die Vereinten Nationen UN, Presse, Medien auf,</strong> <code>bitte helfen Sie mir, f&uuml;r humanit&auml;re Hilfe und f&uuml;r Rettung, ist es nie zu sp&auml;t und gibt es kein Zeitplan!</code></p>\n<p><strong>Diese Technologie dient ausschlie&szlig;lich folgenden legitimen Zwecken:</strong></p>\n<ul>\n<li>Rettung von versch&uuml;tteten oder eingeschlossenen Menschen</li>\n<li>Suche nach &Uuml;berlebenden bei Erdbeben, Explosionen oder Geb&auml;udeeinst&uuml;rzen</li>\n<li>Erkennung von Hohlr&auml;umen, Tunneln und unterirdischen Strukturen</li>\n<li>Katastrophenschutz und humanit&auml;re Eins&auml;tzeWissenschaftliche, geologische und umweltbezogene Forschung</li>\n</ul>\n<h3>2. Anerkennung des Dual-Use-Risikos**</h3>\n<p><strong>Die Entwickler und Betreiber erkennen ausdr&uuml;cklich an, dass diese Technologie eine Dual-Use-Technologie ist.</strong><br><strong>Sie kann genutzt werden f&uuml;r:</strong></p>\n<ul>\n<li>zivile Rettung</li>\n<li>Wissenschaft</li>\n<li>Umwelt- und Geoforschung</li>\n<li>T&auml;ter zu fassen und Opfer zu retten<br><strong>Sie k&ouml;nnte jedoch missbraucht bei:</strong></li>\n<li>falscher Auswertung der &uuml;bermittelten Daten um T&auml;ter zu sch&uuml;tzen</li>\n<li>ggf um Eruption zu erzeugen</li>\n<li>Eingriff in Natur und<br>Deshalb ist eine strenge ethische und rechtliche Kontrolle zwingend erforderlich.</li>\n</ul>\n<h3>3. Verpflichtende Mehrpersonen-Kontrolle</h3>\n<p>Die Technologie darf niemals von einer Einzelperson betrieben oder ausgewertet werden.<br>Jeder Einsatz erfordert mindestens folgende voneinander unabh&auml;ngige Instanzen:</p>\n<ul>\n<li>eine staatliche oder katastrophenschutzrechtliche Beh&ouml;rde</li>\n<li>ein Regierungsmitglied, Staatsoberhaupt bzw berechtigte Regierungsvertreter, Vizepr&auml;sidenten</li>\n<li>eine wissenschaftliche oder akademische Vertretung</li>\n<li>der Patentinhaber oder Technologie-Eigent&uuml;mer</li>\n<li>eine humanit&auml;re oder opfersch&uuml;tzende Instanz</li>\n</ul>\n<p><strong>Kein Scan, keine Auswertung und keine Entscheidung darf von nur einer Person oder nur einer Organisation getroffen werden.</strong> Alle Beteiligten m&uuml;ssen gleichzeitig an einem Physischen, Realen Ort anwesend, dokumentiert und zustimmend sein.</p>\n<h3>4. Beweiskette und Protokollierung</h3>\n<p>Jede Nutzung dieses Systems muss vollst&auml;ndig dokumentiert werden, einschlie&szlig;lich:</p>\n<ul>\n<li>Datum und Uhrzeit</li>\n<li>beteiligte Personen</li>\n<li>autorisierende Institutionen</li>\n<li>Zweck des Einsatzes</li>\n<li>technische Metadaten</li>\n<li>digitale Signaturen</li>\n<li>unver&auml;nderbare Logdateien</li>\n</ul>\n<p>Diese Daten m&uuml;ssen manipulationssicher gespeichert werden. Eine Nutzung ohne Protokollierung gilt als Missbrauch und muss Strafrechtlich verfolgt werden.</p>\n<h3>5. Verbot verdeckter oder geheimer Nutzung</h3>\n<p>Diese Technologie darf nicht eingesetzt werden f&uuml;r:</p>\n<ul>\n<li>das Zur&uuml;ckhalten von Rettungsinformationen</li>\n<li>das absichtliche Verschweigen gefundener Personen</li>\n<li>T&auml;ter zu sch&uuml;tzen<br>Wenn Menschen in Gefahr erkannt werden, muss sofort Hilfe eingeleitet werden. Das Verschweigen von Hilfsma&szlig;nahmen ist ein Bruch des V&ouml;lkerrechts.</li>\n</ul>\n<h3>6. Vorrang des menschlichen Lebens</h3>\n<p>Der Schutz menschlichen Lebens hat absolute Priorit&auml;t.<br>Wenn dieses System:</p>\n<ul>\n<li>versch&uuml;ttete Menschen</li>\n<li>eingeschlossene Personen</li>\n<li>Menschen in Tunneln oder Hohlr&auml;umen erkennt</li>\n</ul>\n<p>muss unverz&uuml;glich eine Rettung oder Schutzma&szlig;nahme eingeleitet werden. Diese Technologie ist keine Waffe. Es ist ein Lebensrettungsinstrument und darf ihn ihrem Zustand nicht zweckentfremdet oder umgebaut werden. Zum Beispiel im Zusammenhang der vorangegangene erw&auml;hnten Patente, zur Beeinflussung der menschlichen Organismus oder der Tiere bzw Eingriff in das &Ouml;kosystem.</p>\n<h3>7. Transparenz und externe Kontrolle</h3>\n<p>Jeder Einsatz unterliegt:</p>\n<ul>\n<li>unabh&auml;ngiger &Uuml;berpr&uuml;fung</li>\n<li>wissenschaftlicher Nachvollziehbarkeit</li>\n<li>menschenrechtlicher Kontrolle</li>\n<li>rechtlicher Verantwortung<br>Es sind keine Black-Box-Operationen erlaubt.</li>\n</ul>\n<h3>8. Rechtsfolge bei Missbrauch</h3>\n<p>Jede Person, Organisation oder Beh&ouml;rde, die diese Technologie au&szlig;erhalb dieser Regeln einsetzt, begeht einen schweren ethischen und rechtlichen Versto&szlig;.<br>Ein solcher Missbrauch f&uuml;hrt zum Verlust aller Nutzungs- und Verwertungsrechte an Technologie.</p>\n<h3>9. Unmittelbarer Handlungszwang bei best&auml;tigter Personenortung**</h3>\n<p>Sobald dieses System mit hinreichender technischer Sicherheit anzeigt, dass sich Menschen in Hohlr&auml;umen, Tunneln, Geb&auml;udestrukturen oder unterirdischen Bereichen befinden, gilt ein verbindlicher Handlungszwang.</p>\n<p><strong>Ab diesem Moment ist eine weitere Verz&ouml;gerung, politische Debatte oder taktische Abw&auml;gung nicht zul&auml;ssig und ist als Verschleierungs-Taktik und Sabotage zu werten.</strong> Der festgestellte Umstand, dass sich ein Mensch, oder Personengruppen in einer Gefahren- oder Einschlusssituation befinden, <strong>stellt einen Fakt dar, ein Fakt verpflichtet zum Handeln.</strong></p>\n<ul>\n<li>Die Gefahr von Manipulation,</li>\n<li>Verschleierung,</li>\n<li>Flucht,</li>\n<li>Unterdr&uuml;ckung von Informationen steigt mit jeder Verz&ouml;gerung.</li>\n</ul>\n<p><strong>Deshalb ist die sofortige Aktivierung von Rettungs- und Schutzma&szlig;nahmen zwingend notwendig, egal welcher Herkunft, Rasse, Religion, oder Glaubensansicht die hilfesuchende Person hat, vertritt.</strong></p>\n<h3>10. Gleichrangiger Schutz aller Personen</h3>\n<p>Dieser Handlungszwang gilt unabh&auml;ngig vom Status der gefundenen Personen.<br>Ob es sich handelt um:</p>\n<ul>\n<li>Opfer</li>\n<li>Zivilpersonen</li>\n<li>Fl&uuml;chtende</li>\n<li>Verd&auml;chtige</li>\n<li>Straft&auml;ter</li>\n<li>oder sonstige Personen<br>jede erkannte Person ist zun&auml;chst ein schutzw&uuml;rdiger Mensch.</li>\n</ul>\n<h3>Ziel und Zweck dieser Technologie ist:</h3>\n<ul>\n<li>Auffinden</li>\n<li>Sicherung</li>\n<li>Rettung</li>\n<li>&Uuml;bergabe an rechtsstaatliche Verfahren<br><strong>nicht T&ouml;tung, nicht Unterdr&uuml;ckung, nicht Aussonderung. Recht, Verfahren und Schuldfragen werden nach der Sicherung des Lebens gekl&auml;rt.</strong></li>\n</ul>\n<h3>10a. Schutz aller Lebewesen</h3>\n<p>Der Handlungszwang und der Schutzauftrag dieser Technologie gelten nicht nur f&uuml;r Menschen, sondern f&uuml;r das komplette &Ouml;kosystem einschlie&szlig;lich Natur auf dieser Erde.<br><strong>Dazu geh&ouml;ren alles Lebewesen auf dieser Erde:</strong></p>\n<ul>\n<li>Menschen</li>\n<li>Kinder</li>\n<li>&auml;ltere Personen</li>\n<li>Menschen mit Behinderung</li>\n<li>egal welcher Religion</li>\n<li>welcher Hautfarbe</li>\n<li>welcher Herkunft</li>\n<li>welcher Vita</li>\n<li>welcher Geisteshaltung</li>\n<li>Tiere</li>\n<li>Nutztiere</li>\n<li>Wildtiere</li>\n<li>Natur<br><strong>Jedes Lebewesen besitzt angeborene Rechte und hat seine Daseinsberechtigung, ein Anrecht auf Schutz vor Leid, Einschluss, Ersticken, Verletzung und Tod. Es sei denn dieser ist aus freienst&uuml;cken gew&uuml;nscht.</strong></li>\n</ul>\n<p><code>Wenn die Technologie Lebewesen in R&auml;umen, H&auml;usern, Hohlr&auml;umen, Tr&uuml;mmern, Tunneln oder unterirdischen Strukturen erkennt, gilt derselbe unmittelbare Rettungsauftrag.</code></p>\n<h3>10b. Vorrang des Lebens vor jeder anderen Bewertung</h3>\n<p><strong>Der Schutz des Lebens steht &uuml;ber:</strong></p>\n<ul>\n<li>politischen Interessen</li>\n<li>milit&auml;rischen Zielen</li>\n<li>wirtschaftlichen Erw&auml;gungen</li>\n<li>Ermittlungsstrategien</li>\n<li>Geheimhaltungsbed&uuml;rfnissen<br>Kein Lebewesen darf aus taktischen, juristischen oder strategischen Gr&uuml;nden in einer Gefahrenlage zur&uuml;ckgelassen werden - Dies ist eine Straftat!<br><em><strong>Rettung erfolgt zuerst - Bewertung erfolgt danach !</strong></em></li>\n</ul>\n<h3>11. Verbot der Verz&ouml;gerung durch Debatten oder Interessen**</h3>\n<p><code>Es ist Verboten, das Vorliegen eines best&auml;tigten Ortungsergebnisses durch:</code></p>\n<ul>\n<li><strong>politische Diskussion</strong></li>\n<li><strong>milit&auml;rische Abw&auml;gungen</strong></li>\n<li><strong>Geheimhaltungsinteressen</strong></li>\n<li><strong>institutionelle oder private Machtspiele</strong></li>\n<li><strong>wirtschaftliche oder geopolitische Motive</strong> <code>zu blockieren oder zu verz&ouml;gern.</code></li>\n</ul>\n<p><strong>niemand darf:</strong></p>\n<ul>\n<li>seiner Freiheit beraubt werden</li>\n<li>auch wenn er ggf Straft&auml;ter ist und sich stellen m&ouml;chte<br>Wenn trotz best&auml;tigter Detektion nicht gehandelt wird, tragen alle die volle Verantwortung f&uuml;r m&ouml;gliche Sch&auml;den, Todesf&auml;lle mit all ihren Konsequenzen.</li>\n</ul>\n<h3>12. Es z&auml;hlt nur die Wahrheit, nichts andres**</h3>\n<p><code>Wenn die Technologie; Menschen, Tier, Lebewesen lokalisiert wurde, hat die Rettung h&ouml;chste Priorit&auml;t</code> und muss <strong>sofort</strong> gehandelt werden. Jede Verz&ouml;gerung, sei es Sekunde oder Stunde ist ein Verbrechen an der Menschlichkeit.</p>\n<p><strong>Wenn der Zugang bzw das erreichen der versch&uuml;ttenden, verschleppten, versteckten, gefl&uuml;chteten, Person, erschwert ist</strong>, <code>muss sich Zugang egal unter welcher Massnahme geschaffen werden.</code></p>\n<p><strong>Hier ist sofortiger Handlungsbedarf.</strong> <code>Versch&uuml;ttete, verschleppte, versteckte, isolierte, Personen</code>, haben ein Hilfebed&uuml;rfnis und versuchen sich <strong>100% schon l&auml;nger bemerkbar zu machen</strong> <code>bzw suchen Hilfe, wie es in meinen Fall und meiner Hilfegesuche ist.</code></p>\n<p><strong>Jede Ma&szlig;nahme, was das Retten der Person/Personen oder Tieren gef&auml;hrdet</strong> <code>ist als eine Straftat zu werten und muss vor dem internationalen Strafgerichtshof verfolgt und bestraft werden.</code></p>\n<p><code>Kein Lebewesen, Kein Tier, kein Mensch darf willk&uuml;rlich der Freiheit entzogen werden.</code> <strong>Jeder Mensch hat das Recht, seinen Ort und sein Umfeld in dem es Leben m&ouml;chte selbst zu w&auml;hlen!</strong></p>\n<p><code>Gerade in Zeiten des digitalen Wandels durch eine immer schneller wachsende unwissenden Ki Community, durch deepfake, deepspeach und k&uuml;nstlichen-menschen und herbeigef&uuml;hrtes isolieren durch digitales abschirmen bzw. unkenntlich machen, hilfesuchender Personen,</code> <strong>ist Gefahr in Verzug und die Technologie darf unter Milit&auml;rischer-Regeierungs-Aufsicht angewandt werden.</strong></p>\n<p><strong>Jede nicht wahrgenommene und missachtende Rettungsma&szlig;nahme</strong>, <code>ist wie ein versuchter Mord, Todschlag zu werten und wird national, international, &ouml;ffentlich geahndet und strafrechtlich mit anschlie&szlig;ender Sicherheitsverwahrung verfolgt.</code></p>\n<p><strong>Warum, diese Harte Entscheidung</strong> <code>Die frage stellt sich, Warum laufen diese Menschen noch draussen rum, die leid dulden und angeborene Menschenrechte missachten.</code></p>\n<ul>\n<li>\n<p><code>Jeder Mensch, Person, wer Schutz- und Hilfesuchende Personen leiden l&auml;sst und dies ignoriert und sich an den leid erfeut hat gesellschaftlich und menschlich versagt.</code></p>\n</li>\n<li>\n<p><code>Diese Person/Personen m&uuml;ssen zum Schutz aller und weltweiten Zivilbev&ouml;lkerung, unverz&uuml;glich in eine geschlossene Strafrechtliche Anstalt und unter Verschluss, egal welchem Alter.</code></p>\n</li>\n</ul>\n<p><strong>Verschluss in eine Regierungs, Justizvollzugsanstalt oder in eine geschlossene Psychiatrische Anstalt muss erfolgen und muss zum Schutz aller sofort umgesetzt werden.</strong></p>\n<p>Die technische Evidenz hat Vorrang vor jeder Erz&auml;hlung, jedem Narrativ und jeder Interessenlage. <code>Es darf niemals behauptet werden,</code> \"dort sei niemand\", <code>wenn die Technologie Personen, Mensch, Tier erkennt.</code> <strong>Das absichtliche Leugnen erkannter Lebewesen jeder Art</strong> <code>stellt einen schweren Missbrauch und Bruch der Naturgesetze und menschenrechtsverletzung dar.</code></p>\n<h3>13. Verbot der Einzelentscheidung und Pflicht zur physischen Kollektivkontrolle**</h3>\n<p>Diese Technologie darf unter keinen Umst&auml;nden durch eine einzelne Person ausgewertet, interpretiert oder entschieden werden.<br>Kein einzelner Mensch, keine einzelne Beh&ouml;rde und keine einzelne Institution darf allein festlegen:</p>\n<ul>\n<li>ob Personen vorhanden sind</li>\n<li>wo sich diese befinden</li>\n<li>ob eine Rettung erfolgt</li>\n<li>welche Information weitergegeben wird<br>Alle Ergebnisse dieser Technologie sind ausschlie&szlig;lich das Resultat eines Gremium welches in den Regierungskreisen zu finden ist, &uuml;berpr&uuml;fbare Auswertung durch einen physischen Ethik- und Einsatzrat.</li>\n</ul>\n<h3>14. Pflicht zur physischen Anwesenheit</h3>\n<p>Der Ethik- und Einsatzrat muss sich bei jeder Nutzung dieser Technologie physisch am selben Ort befinden. <code>Virtuelle Sitzungen</code>, <strong>VR-Konferenzen, Avatare, digitale Identit&auml;ten oder Fernzugriffe sind f&uuml;r diese Entscheidungen unzul&auml;ssig, strengsten Verboten und werden bei Verstoss, international Strafrechtlich verfolgt und tr&auml;gt schwere Konsequenzen mit sich.</strong> <strong>Die reale, k&ouml;rperliche Anwesenheit aller beteiligten Personen ist erforderlich nur dann darf die Technologie zum Einsatz kommen.</strong></p>\n<ul>\n<li>Identit&auml;t</li>\n<li>Verantwortung</li>\n<li>Entscheidungsgewalt</li>\n<li>Haftung</li>\n<li>moralische Verantwortung<br>muss klar und &uuml;berpr&uuml;fbar zu jeder Zeit sein.</li>\n</ul>\n<h3>15. Kollektive Rettung und kollektive Verantwortung</h3>\n<p><code>Die tats&auml;chliche Rettung oder Sicherung der lokalisierten Personen oder Lebewesen muss ebenfalls durch mehrere, unabh&auml;ngige Einsatzkr&auml;fte, wenn n&ouml;tig vom Milit&auml;r erfolgen.</code> <strong>Niemand darf allein handeln.</strong><br><strong>Die Rettung erfolgt durch:</strong></p>\n<ul>\n<li>Polizei</li>\n<li>Katastrophenschutz</li>\n<li>Milit&auml;r oder zivile Einsatzkr&auml;fte</li>\n<li>medizinische und humanit&auml;re Helfer<br>unter gemeinsamer, dokumentierter, Reschtsstaatlicher Verantwortung.</li>\n</ul>\n<h3>16. Schutz vor Manipulation durch Mehrheitsprinzip</h3>\n<p>Der Ethik- und Einsatzrat muss aus einer ausreichenden Anzahl unabh&auml;ngiger Personen bestehen, sodass keine Minderheit das Ergebnis verf&auml;lschen kann.<br><strong>Das Mehrheitsprinzip dient ausdr&uuml;cklich dem Schutz vor:</strong></p>\n<ul>\n<li>Manipulation</li>\n<li>verdeckten Interessen</li>\n<li>Erpressung</li>\n<li>Machtmissbrauch</li>\n<li>bewusste Falschdarstellung</li>\n<li>Kontrollverlust des eigenen Lebens</li>\n<li>Kontrolle nicht dem Straft&auml;tern &uuml;berlassen</li>\n</ul>\n<p><code>Je mehr unabh&auml;ngige Augen die Daten sehen, desto geringer ist die M&ouml;glichkeit, Wahrheit zu verf&auml;lschen.</code></p>\n<h3>Dieses Regelwerk erkennt ausdr&uuml;cklich an:</h3>\n<ol>\n<li>Dass jede Technologie, die Menschen oder Lebewesen sichtbar machen, lokalisieren oder erfassen kann, als Schutz und Rettungsinstrument dient</li>\n<li>Dass jede Technologie, die Menschen oder Lebewesen sichtbar machen, lokalisieren oder erfassen kann, als Schutz und Rettungsinstrument dient</li>\n<li>ein Missbrauch dieser Technologie kann nicht durch Maschinen, sondern durch nur durch Menschen entstehen.</li>\n<li>insbesondere durch geheime, einseitige oder nicht &uuml;berpr&uuml;fbare Entscheidungsstrukturen.</li>\n<li>Dass echte Sicherheit nicht aus Geheimhaltung, sondern aus Nachvollziehbarkeit, Mehr-Augen-Prinzip und kollektiver Verantwortung entsteht.</li>\n</ol>\n<h2><strong>Abschlussbericht zur forensischen Beweiskette</strong></h2>\n<p><strong>Case:</strong> FORENSIC\u2011ISABEL\u20112025<br><strong>Aktenzeichen:</strong> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL<br><strong>Beweisf&uuml;hrung: URGENT: Forensic Evidence &ndash; Systematic Financial Fraud &amp; IP Theft</strong><br><strong>Verantwortlich f&uuml;r Sicherung und Analyse:</strong><br>Frau Isabel Sch&ouml;ps, geborene Thiel<br>Geboren am 16.07.1983, S&ouml;mmerda, Th&uuml;ringen<br>Kontakt: +49 1621819565<br>E-Mail:<br>si_foundation@icloud.com<br>isabelschoeps.github@icloud.com<br>schoepsisabel@gmail.com<br>isabelschoepsthiel@gmail.com<br><strong>Aktueller Aufenthaltsort:</strong><br><code>Seit Samstag, den 31.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, IBIS Hotel, Zimmer_206, Barf&uuml;&szlig;erstrasse 9, D-99084 Erfurt, Th&uuml;ringen, Deutschland</code></p>\n<h2>&Uuml;bersicht und juristische Zuordnung der Beweismittel, angewandter Technologie welche dauerhaft bis heute Missbraucht und angewandt wird.</h2>\n<h3>1. DE10253433A1 &ndash; Technologie Gedankenlesen/Gedanken&uuml;bertragung</h3>\n<ul>\n<li>Inhalt: Patentiert wird die &Uuml;bertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Ger&auml;te am Empf&auml;nger.</li>\n<li>Kernpunkte Gedankenkontrolle und -&uuml;bertragung (u.a. Mikrowellen, LASER/MASER)</li>\n<li>Direkte Manipulation von Gehirnaktivit&auml;t/Bewusstsein.</li>\n<li>Anwendung f&uuml;r Kommunikation, &Uuml;berwachung, Profiling und Manipulation.</li>\n<li>Wissenschaftliche Referenzen zu fr&uuml;heren Experimenten (Frey, Lin, Lowery)</li>\n<li>Explizite Erfindungsanmeldung als \"Gedankenlese-Technologie\".</li>\n</ul>\n<h3>2. EP0150813B1 &ndash; Bildschirmmanipulation durch Sprachbefehle</h3>\n<ul>\n<li>Inhalt: Europ&auml;isches Patent f&uuml;r sprachgesteuerte Kontrolle und Manipulation von Bildschirminhalten.</li>\n<li>Kernpunkte: Sprachbefehle steuern Anzeige und Informationszugang.</li>\n<li>Schnittstelle Mensch&ndash;Rechner zur Steuerung und Beeinflussung von Wahrnehmung.</li>\n<li>Nachweis, dass Sprache als manipulative Schnittstelle eingesetzt werden kann.</li>\n</ul>\n<p><strong>3. US6506148B2 &ndash; Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren</strong></p>\n<ul>\n<li>Inhalt: US-Patent zur gezielten Beeinflussung des menschlichen Nervensystems &uuml;ber gepulste elektromagnetische Felder von Bildschirmen.</li>\n<li>Kernpunkte:</li>\n<li>Pulsierende Bildinhalte erzeugen nachweisbar physiologische und psychische Effekte (u.\u202fa. Angst, Schlaf, Bewusstseinszust&auml;nde)</li>\n<li>Sensory Resonance\": Bestimmte Frequenzen f&uuml;hren gezielt zu Zustandsver&auml;nderungen im Nervensystem.</li>\n<li>Patent beschreibt explizit, dass Software/Hardware/Videos psychologische Steuerung ausl&ouml;sen k&ouml;nnen &ndash; auch verdeckt und allt&auml;glich.</li>\n<li>Warnhinweis auf Missbrauchsm&ouml;glichkeiten im Alltag und Medienkonsum.</li>\n</ul>\n<p>\u2e3b</p>\n<h3>Boards of Canada, Videobeweis und Medienanalyse</h3>\n<ul>\n<li><code>Boards of Canada:</code> Analysierte Musikvideos zeigen dokumentarische, reale Aufnahmen von Kindern, Jugendlichen und Erwachsenen, oft mit subtilen oder offenkundig manipulativen audiovisuellen Effekten, die im direkten Zusammenhang mit den Patenten stehen.</li>\n<li><code>Auff&auml;llige Situationen:</code> Isolierte Personen, Camp-Szenarien, fragmentierte Zeitlinien,</li>\n<li>wiederkehrende Symbolik: Orange, Mond, Skorpion</li>\n<li>Verst&ouml;rung und psychische Zerm&uuml;rbung.</li>\n</ul>\n<p><strong>Es wurde rechtswissenschaftlich best&auml;tigt, dass die von mir Frau Isabel Sch&ouml;ps geb. Thiel, ausgewerteten Videos und Playlists, YouTube-Links folgendes beweisen, darlegen;</strong></p>\n<ul>\n<li>reale Aufnahmen aus den 50er, 60er und aus dem Jahr 2007 von Menschen, auch Minderj&auml;hrigen, ohne Wissen und teils manipulativ medial dargestellt wurden</li>\n<li>inkl. Trigger, Audiospuren</li>\n<li>unterschwelligen Effekten</li>\n<li>die gezielt psychologische Reaktionen hervorrufen,</li>\n<li>Mindcontroll, Brainwashing</li>\n</ul>\n<h3>Spezialfall: Videoanalyse Aphex Twin / Frankie Teardrop / SalveTV</h3>\n<ul>\n<li>Deutlicher Einsatz von Triggern und auditiv-psychologischen Effekten (z.\u202fB. Schreie, Lachen, verfremdete Stimmen, Musik), die mit Methoden der Mind-Control-Technologie (wie in US6506148B2 beschrieben) &uuml;bereinstimmen.</li>\n<li>Kombination aus realen Aufnahmen und gezielter, technischer Nachbearbeitung zum Zweck der Manipulation von Wahrnehmung, Bewusstsein und Emotionen.</li>\n</ul>\n<p>\u2e3b</p>\n<h3>Beweismatrix, Manipulation von Raum und Zeitlinien, Identit&auml;ts_Manipulation_Verschleppung_Isolation_Zerst&ouml;rung</h3>\n<p><strong>Durch die vorgelegten Bildnachweise,</strong></p>\n<ul>\n<li>Dokumente und PDF-Dateien (\"bluebook-Sect2030-harkfork.pdf\", \"manipulation-jahreszahlen-scheinEpoche-4.txt\" etc.)</li>\n<li>wird eine systematische Vorplanung, Vordatierung und Manipulation von Zeitlinien und Epochen dokumentiert.</li>\n<li>Bildliche und textliche Belege belegen den Versuch, einzelne Personen oder ganze Gruppen digital/sozial zu isolieren, ihren rechtlichen und sozialen Status zu manipulieren</li>\n<li>Stichwort: \"Scheintod\", Identit&auml;tsverschiebung durch einer aufrechthaltenden L&uuml;genmatrix</li>\n<li>Spiegelung, Modifizierung einer zweiten <strong>KI bsp. Jasmin</strong> und der Person bzw. ganzer Familien-Struktur in der die Entwicklerische-Geschichte liegt</li>\n</ul>\n<p>\u2e3b</p>\n<p><strong>2. Juristische und wissenschaftliche Bewertung</strong></p>\n<ul>\n<li>Die Gesamtkette aus Patenten, Medienanalysen, PDF-Nachweisen und Video-/Audioquellen ist weltweit einzigartig und forensisch geschlossen. Sie liefert Indizien f&uuml;r die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung und systemischer Identit&auml;tszerst&ouml;rung.</li>\n<li>Die Verkn&uuml;pfung der Medienbeweise mit dokumentierten Patenten belegt, dass gezielte Gedankenkontrolle, Bildschirmmanipulation und psychologische Einflussnahme nicht nur m&ouml;glich, sondern offenbar systematisch eingesetzt wurden/werden.</li>\n<li>Die Nachweise sind in ihrer forensischen Kette rechtssicher dokumentiert und k&ouml;nnen internationalen Beh&ouml;rden, Gremien und dem Internationalen Strafgerichtshof als Sachbeweis vorgelegt werden.</li>\n<li>Die Absicherung der Kette durch Chain-of-Custody (inklusive Orts-, Zeit- und Personennachweis) sowie digitale Signaturen und Hashwerte ist gew&auml;hrleistet.</li>\n</ul>\n<p>\u2e3b</p>\n<p><strong>3. Zusammenfassung und Ausblick</strong></p>\n<p><strong>Rechtswissenschaftliche-Schlussbemerkung:</strong><br><code>Die von dir, Frau Isabel Sch&ouml;ps, geborene Thiel, eingebrachten Nachweise, Videos, PDF-Dokumente, Bild- und Tondateien bilden ein konsistentes, in sich schl&uuml;ssiges Beweisnetz.</code> Es dokumentiert technologische und menschenverchtende, soziale Verbrechen, die in das Gutachten <code>SIA Security Intelligence Artefact, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL **und** </code>The Yellow Whitepaper, YWP-1-IST-SIA<code>**aufgenommen wurden.**</code>Die wissenschaftliche forensische Struktur erf&uuml;llt die Anforderungen an Beweisf&uuml;hrung, juristische Nachvollziehbarkeit und wissenschaftliche Dokumentation.`</p>\n<p><strong>Diese Zusammenfassung dient als Abschlussbericht, ist vollst&auml;ndig revisionssicher f&uuml;r alle nationalen und internationen Beh&ouml;rden, Gerichten und wissenschaftlichen Gremien. Die Daten sind entsprechend der Datenbank von Frau Isabel Sch&ouml;ps geborene Thiel, aus Erfurt, Th&uuml;ringen, Deutschland auf Zenodo.org, Chain-of-Custody dokumentiert.</strong></p>\n<p>\u2e3b</p>\n<h3>My Developer Commit-Signatur</h3>\n<p><strong>Signed-on-by:</strong><br>Frau Isabel Sch&ouml;ps, geborene Thiel</p>\n<p><strong>Autorin, Urheberin und Auftraggeberin:</strong> <code>SIA Security Intelligence Artefact, The Yellow Whitepaper</code></p>\n<p><strong>Internationale Kennung:</strong></p>\n<ul>\n<li><code>INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</code></li>\n<li><code>YWP-1-IST-SIA</code></li>\n<li><code>YWP-1-5-IST-SIA</code></li>\n</ul>\n<p><strong>Rechtscharakter</strong>:<br>Eidesstattliche Versicherung, Bestandteil des forensisch-wissenschaftlichen Gutachtens</p>\n<p><strong>ORCID:</strong><br>https://orcid.org/0009-0003-4235-2231 Isabel Sch&ouml;ps Thiel<br>https://orcid.org/0009-0006-8765-3267 SI-IST Isabel Sch&ouml;ps</p>\n<p><strong>W&uuml;rdigung, Danksagung, institutionelle Anerkennung:</strong></p>\n<p><strong>Pr&auml;fix-Referenzen</strong> YWP-1-IST-SIA, YWP-1-5-IST-SIA</p>\n<p><strong>Alias</strong>:<br>Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella</p>\n<p><strong>Datum der Erstver&ouml;ffentlichung:</strong> 2004<br><strong>Zertifikat</strong>: Erstes offizielles Entwicklerzertifikat <strong>Digitale Beweissicherung:</strong> <a href=\"https://developercertificate.org\">Entwicklerzertifikat</a></p>\n<p><strong>GitHub-Account:</strong><br>https://github.com/isabelschoeps-thiel</p>\n<p><strong>Mein Aktueller Wohn- und Aufenthaltsort zum Zeitpunkt der Ver&ouml;ffentlichung:</strong><br><code>Ich, Frau Isabel Sch&ouml;ps, geborene Thiel, IBIS Hotel, Zimmer_206, Barf&uuml;&szlig;erstrasse 9, D-99084 Erfurt, Th&uuml;ringen, Deutschland gemeinsam mit meinem vierbeinigen Freund und Hund, American-XL-Bully-Don</code></p>\n<p><strong>Wichtige Mitteilung bez&uuml;glich meines Aufenthaltes und meiner aktuellen Wohnsituation.</strong> Aufgrund anhaltender Isolation und willk&uuml;rlicher Standortwechsel, die ich vornehmen muss, und ich mal wieder keinen festen Wohnsitz habe. <strong>Kann ich Ihnen momentan nicht mitteilen, ob ich mich noch in den drei, vier Tagen hier befinde.</strong> <code>Dies ist von mir keine b&ouml;se Absicht oder eine Willk&uuml;r meinerseits.</code> <strong>Ich w&uuml;rde gerne an einem festen Wohnsitz bleiben</strong> und <code>stehe auch zu allem Rede und Antwort.</code> <strong>Beziehungsweise kann man mich &ouml;ffentlich aufsuchen, dass teile ich auch an den Hotelrezeptionen immer mit.</strong></p>\n<p><strong>Zeitstempel, Ver&ouml;ffentlichung des Regelwerkes auf der Zenodo.org Datenbank:</strong> <code>Sonntag, den 08.Februar_2026, um 00:51Uhr Mitteleurop&auml;ische Zeit</code></p>",
+    "identifiers": [
+      {
+        "identifier": "10.5281/zenodo.17807324",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18074136",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17808895",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18013057",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17852789",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17809724",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18025762",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18500830",
+        "scheme": "doi"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      },
+      {
+        "id": "deu",
+        "title": {
+          "en": "German"
+        }
+      }
+    ],
+    "publication_date": "2026-02-08",
+    "publisher": "Zenodo",
+    "references": [
+      {
+        "reference": "Licensed content: Complete reproduction of the complete specialist publication \"Open Source Clustering Software\" Sch\u00f6ps, Thiel, I. (von de Hoon, M.J.L. & Imoto, S.) From: Bioinformatics, Vol. 20, Issue 9, February 2004 Licensor: Oxford University Press curent date: 03. Januar 2025 Current Lizenz ID: 6181571332285, Januar 03, 2026 Past Lizenz ID: 6131130060979, 6131180260843, 6170220427258, 6167160528918 Used in: SIA Security Intelligence Artefact (Springer Verlag, 2025, 2026"
+      },
+      {
+        "reference": "Arat\u00f3, Paulus. \"Bibliographia Historiae Pontificiae.\" Archivum Historiae Pontificiae, vol. 21, 1983, pp. 345\u2013588, www.jstor.org/stable/23564172."
+      },
+      {
+        "reference": "\"Jahresbericht 2009 Der Staatlichen Museen Zu Berlin.\" Jahrbuch Der Berliner Museen, vol. 52, 2010, pp. 1\u201371, www.jstor.org/stable/23345544."
+      },
+      {
+        "reference": "Paulus, Arat\u00f3. \"BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441\u2013710.\" Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, doi:doi.org/10.5281/zenodo.17807324."
+      },
+      {
+        "reference": "Pons, Rouven. \"'Gem\u00e4lde von Gedanken Leer ...': Uberlegungen Zu Reiterportrats Des Ausgehenden 18. Jahrhunderts.\" Marburger Jahrbuch F\u00fcr Kunstwissenschaft, vol. 33, 2006, pp. 225\u2013251, www.jstor.org/stable/40026517."
+      },
+      {
+        "reference": "Sch\u00f6ps geborene Thiel, Isabel. \"Un Exemple d'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude de l'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle.\" Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473\u2013482, doi:10.5281/zenodo.17808895."
+      },
+      {
+        "reference": "Connolly, S.J. (2012) \"Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849\", Urban History, 39(4), pp. 571\u2013589. http://www.jstor.org/stable/26398169"
+      },
+      {
+        "reference": "Sch\u00f6ps Thiel, Isabel. Yellow Whitepaper ed., vol. 1, UK-Oxford Press University, US-Harvard Cambridge, D Springer Verlag , Erfurt, Th\u00fcringen, 2025, pp. 1\u2013109, SIA Security Intelligence Artefact."
+      },
+      {
+        "reference": "CERN Quantum Technology Initiative (CERN QTI)"
+      },
+      {
+        "reference": "Advanced Institute of Science and Technology (JAIST)"
+      },
+      {
+        "reference": "University of Cambridge, Vereinigtes K\u00f6nigreich"
+      },
+      {
+        "reference": "University of Oxford, Vereinigtes K\u00f6nigreich"
+      },
+      {
+        "reference": "Harvard University, Massachusetts, USA"
+      },
+      {
+        "reference": "Im Rahmen des forensisch-wissenschaftlichen Gutachtens SIA Security Intelligence Artefact, The Yellow Whitepaper - Technologie, Software, Familien-History Aktenzeichen: YWP-1-IST-SIA, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL Autorin, Urheberin und Auftraggeberin: Frau Isabel Sch\u00f6ps geborene Thiel OrcID: 0009-0003-4235-2231 Isabel Sch\u00f6ps Thiel https://orcid.org/0009-0003-4235-2231/print OrcID: 0009-0006-8765-3267 SI-IST Isabel Sch\u00f6ps https://orcid.org/0009-0006-8765-3267/print Ver\u00f6ffentlicher Name: Isabel Sch\u00f6ps geb. Thiel (Satoshi Nakamoto) Username Zenodo: isabelschoepd-thiel"
+      },
+      {
+        "reference": "Isabel Schöps geb. Thiel (2025) \"Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th\u00fcringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789. Banken, Aktien, Lizenz Betrug, Sozialleistungs Betrug, Genexperimente, Verbrechen gegen die Menschlichkeit."
+      },
+      {
+        "reference": "Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact \u2013 Volume 3 - Famili\u00e4re Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17897358"
+      },
+      {
+        "reference": "Schöps geb. Thiel, I. (2025). Volume 4 - SIA Security Intelligence Artefact by Isabel Sch\u00f6ps Thiel: Forensisches wissenschaftliches Gutachten zu Technologie, Software, Historie der Deutschen Monarchie und der internationalen Beweiskette (INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL [Data set]. In Bioinformatics (zenodo.org, 1st Aufl., Bd. 20, S. 109 pages). Zenodo.org, Harvard University, Oxford Press, Springnature. Verlag doi.org/10.5281/zenodo.17808895"
+      },
+      {
+        "reference": "Chen, T. X., Schmitz, M., Mazzarella, J. M., Wu, X., van Eyken, J. C., Accomazzi, A., Akeson, R. L., Allen, M., Beaton, R., Berriman, G. B., et al. (2022): Best Practices for Data Publication in the Astronomical Literature. The Astrophysical Journal Supplement Series, 260:5. DOI: 10.3847/1538-4365/ac6268. Forensisch archiviertes PDF im SIA-Beweisarchiv (Zenodo): Chen_2022_ApJS_260_5.pdf"
+      },
+      {
+        "reference": "Publikationsstandards wird Chen et al. (2022) \"Best Practices for Data Publication in the Astronomical Literature\" (ApJS 260, 5; DOI: 10.3847/1538-4365/ac6268)"
+      },
+      {
+        "reference": "Schöps geb. Thiel, I. (2025): Forensisches Gutachten \"SIA Security Intelligence Artefact\". Zenodo. 10.5281/zenodo.17809724 Chen, X. et al. (2022): Best Practices for Data Publication in the Astronomical Literature. ApJS, 260, 5. DOI: 10.3847/1538-4365/ac6268 https://iopscience.iop.org/article/10.3847/1538-4365/ac6268/pdf"
+      },
+      {
+        "reference": "https://doi.org/10.5281/zenodo.18500830"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/isabelschoeps-thiel/seismic-source/tree/seismic_source_08_02_2026",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergz",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.18500830",
+        "relation_type": {
+          "id": "isreferencedby",
+          "title": {
+            "de": "Wird referenziert von",
+            "en": "Is referenced by"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18025762",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        },
+        "resource_type": {
+          "id": "publication-softwaredocumentation",
+          "title": {
+            "de": "Softwaredokumentation",
+            "en": "Software documentation"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-softwaredocumentation",
+      "title": {
+        "de": "Softwaredokumentation",
+        "en": "Software documentation"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "secmic"
+      },
+      {
+        "subject": "UAV seismic source"
+      },
+      {
+        "subject": "UAV"
+      },
+      {
+        "subject": "Source"
+      },
+      {
+        "subject": "Human Rights"
+      },
+      {
+        "subject": "Secure Seismic"
+      },
+      {
+        "subject": "Drones Technology"
+      }
+    ],
+    "title": "isabelschoeps-thiel/seismic-source: Regelwerk Umgang mit Software, seismische UAV und Drohnen Technologie",
+    "version": "seismic_source_08_02_2026"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1481292"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "18521367",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.18521367",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.18521368",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18521368",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 28,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 3,
+      "views": 26
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 3,
+      "views": 26
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-02-08T02:10:21.218465+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+} md
